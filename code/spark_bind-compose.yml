@@ -1,0 +1,34 @@
+version: '3'
+
+services:
+
+  master:
+    image: jupyter/pyspark-notebook:latest
+    volumes:
+      - .:/home/jovyan/work
+    command: /usr/local/spark/bin/spark-class org.apache.spark.deploy.master.Master -h master
+    hostname: master
+    environment:
+      MASTER: spark://master:7077
+    ports:
+      - 4040:4040
+      - 6066:6066
+      - 7077:7077
+      - 8080:8080
+
+  spark-worker:
+    image: jupyter/pyspark-notebook:latest
+    volumes:
+      - .:/home/jovyan/work
+    command: /usr/local/spark/bin/spark-class org.apache.spark.deploy.worker.Worker --work-dir /home/jovyan/work spark://master:7077
+    hostname: spark-worker
+    environment:
+      SPARK_WORKER_CORES: 1
+      SPARK_WORKER_MEMORY: 1g
+    depends_on:
+      - master
+
+networks:
+  default:
+    external:
+      name: spark-network

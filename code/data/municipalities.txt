@@ -1,0 +1,1292 @@
+01023	Les Îles-de-la-Madeleine                                  	M-Municipalité                                            	20020101	
+01042	Grosse-Île                                                	M-Municipalité                                            	20060101	
+02005	Percé                                                     	V-Ville                                                   	19710101	
+02010	Sainte-Thérèse-de-Gaspé                                   	M-Municipalité                                            	19300906	
+02015	Grande-Rivière                                            	V-Ville                                                   	19740921	
+02028	Chandler                                                  	V-Ville                                                   	20010627	
+02047	Port-Daniel--Gascons                                      	M-Municipalité                                            	20010117	
+02902	Mont-Alexandre                                            	NO-Territoire non organisé                                	18550701	
+03005	Gaspé                                                     	V-Ville                                                   	19710101	
+03010	Cloridorme                                                	CT-Municipalité de canton                                 	18850101	
+03015	Petite-Vallée                                             	M-Municipalité                                            	19570101	
+03020	Grande-Vallée                                             	M-Municipalité                                            	19270915	
+03025	Murdochville                                              	V-Ville                                                   	19530715	
+03902	Rivière-Saint-Jean                                        	NO-Territoire non organisé                                	18550701	
+03904	Collines-du-Basque                                        	NO-Territoire non organisé                                	18550701	
+04005	Sainte-Madeleine-de-la-Rivière-Madeleine                  	M-Municipalité                                            	19160101	
+04010	Saint-Maxime-du-Mont-Louis                                	M-Municipalité                                            	18840610	
+04015	Mont-Saint-Pierre                                         	VL-Municipalité de village                                	19470101	
+04020	Rivière-à-Claude                                          	M-Municipalité                                            	19231218	
+04025	Marsoui                                                   	VL-Municipalité de village                                	19500101	
+04030	La Martre                                                 	M-Municipalité                                            	19231218	
+04037	Sainte-Anne-des-Monts                                     	V-Ville                                                   	20000202	
+04047	Cap-Chat                                                  	V-Ville                                                   	20000315	
+04902	Mont-Albert                                               	NO-Territoire non organisé                                	18550701	
+04904	Coulée-des-Adolphe                                        	NO-Territoire non organisé                                	18550701	
+05010	Shigawake                                                 	M-Municipalité                                            	19241215	
+05015	Saint-Godefroi                                            	CT-Municipalité de canton                                 	19140101	
+05020	Hope Town                                                 	M-Municipalité                                            	19361121	
+05025	Hope                                                      	CT-Municipalité de canton                                 	18550701	
+05032	Paspébiac                                                 	V-Ville                                                   	19970820	
+05040	New Carlisle                                              	M-Municipalité                                            	18770201	
+05045	Bonaventure                                               	V-Ville                                                   	18840101	
+05050	Saint-Elzéar                                              	M-Municipalité                                            	19650101	
+05055	Saint-Siméon                                              	P-Municipalité de paroisse                                	19150101	
+05060	Caplan                                                    	M-Municipalité                                            	18750101	
+05065	Saint-Alphonse                                            	M-Municipalité                                            	19030101	
+05070	New Richmond                                              	V-Ville                                                   	18550701	
+05077	Cascapédia--Saint-Jules                                   	M-Municipalité                                            	19990602	
+05902	Rivière-Bonaventure                                       	NO-Territoire non organisé                                	18550701	
+06005	Maria                                                     	M-Municipalité                                            	18550701	
+06013	Carleton-sur-Mer                                          	V-Ville                                                   	20001004	
+06020	Nouvelle                                                  	M-Municipalité                                            	19080101	
+06025	Escuminac                                                 	M-Municipalité                                            	19080101	
+06030	Pointe-à-la-Croix                                         	M-Municipalité                                            	19830507	
+06035	Ristigouche-Partie-Sud-Est                                	CT-Municipalité de canton                                 	18550701	
+06040	Saint-André-de-Restigouche                                	M-Municipalité                                            	19070101	
+06045	Matapédia                                                 	M-Municipalité                                            	19060101	
+06050	Saint-Alexis-de-Matapédia                                 	M-Municipalité                                            	18550701	
+06055	Saint-François-d'Assise                                   	M-Municipalité                                            	19260903	
+06060	L'Ascension-de-Patapédia                                  	M-Municipalité                                            	19680101	
+06802	Gesgapegiag                                               	R-Réserve indienne                                        	18550701	
+06804	Listuguj                                                  	R-Réserve indienne                                        	18550701	
+06902	Rivière-Nouvelle                                          	NO-Territoire non organisé                                	18550701	
+06904	Ruisseau-Ferguson                                         	NO-Territoire non organisé                                	18550701	
+07005	Sainte-Marguerite-Marie                                   	M-Municipalité                                            	19570101	
+07010	Sainte-Florence                                           	M-Municipalité                                            	19120101	
+07018	Causapscal                                                	V-Ville                                                   	19971231	
+07025	Albertville                                               	M-Municipalité                                            	19301127	
+07030	Saint-Léon-le-Grand                                       	P-Municipalité de paroisse                                	19040101	
+07035	Saint-Zénon-du-Lac-Humqui                                 	P-Municipalité de paroisse                                	19200428	
+07040	Sainte-Irène                                              	P-Municipalité de paroisse                                	19530101	
+07047	Amqui                                                     	V-Ville                                                   	19910116	
+07057	Lac-au-Saumon                                             	M-Municipalité                                            	19971217	
+07065	Saint-Alexandre-des-Lacs                                  	P-Municipalité de paroisse                                	19650101	
+07070	Saint-Tharcisius                                          	P-Municipalité de paroisse                                	19371204	
+07075	Saint-Vianney                                             	M-Municipalité                                            	19260827	
+07080	Val-Brillant                                              	M-Municipalité                                            	19861220	
+07085	Sayabec                                                   	M-Municipalité                                            	19821224	
+07090	Saint-Cléophas                                            	P-Municipalité de paroisse                                	19210519	
+07095	Saint-Moïse                                               	P-Municipalité de paroisse                                	18780101	
+07100	Saint-Noël                                                	VL-Municipalité de village                                	19061002	
+07105	Saint-Damase                                              	P-Municipalité de paroisse                                	18860101	
+07902	Routhierville                                             	NO-Territoire non organisé                                	18550701	
+07904	Rivière-Vaseuse                                           	NO-Territoire non organisé                                	18550701	
+07906	Rivière-Patapédia-Est                                     	NO-Territoire non organisé                                	18550701	
+07908	Lac-Casault                                               	NO-Territoire non organisé                                	18550701	
+07910	Ruisseau-des-Mineurs                                      	NO-Territoire non organisé                                	18550701	
+07912	Lac-Alfred                                                	NO-Territoire non organisé                                	18550701	
+07914	Lac-Matapédia                                             	NO-Territoire non organisé                                	18550701	
+08005	Les Méchins                                               	M-Municipalité                                            	19821127	
+08010	Saint-Jean-de-Cherbourg                                   	P-Municipalité de paroisse                                	19540501	
+08015	Grosses-Roches                                            	M-Municipalité                                            	19390819	
+08023	Sainte-Félicité                                           	M-Municipalité                                            	19960110	
+08030	Saint-Adelme                                              	P-Municipalité de paroisse                                	19330909	
+08035	Saint-René-de-Matane                                      	M-Municipalité                                            	19821218	
+08040	Sainte-Paule                                              	M-Municipalité                                            	19680101	
+08053	Matane                                                    	V-Ville                                                   	20010926	
+08065	Saint-Léandre                                             	P-Municipalité de paroisse                                	19130101	
+08073	Saint-Ulric                                               	M-Municipalité                                            	20000112	
+08080	Baie-des-Sables                                           	M-Municipalité                                            	18590101	
+08902	Rivière-Bonjour                                           	NO-Territoire non organisé                                	18550701	
+09005	La Rédemption                                             	P-Municipalité de paroisse                                	19560101	
+09010	Saint-Charles-Garnier                                     	P-Municipalité de paroisse                                	19660101	
+09015	Les Hauteurs                                              	M-Municipalité                                            	19181107	
+09020	Sainte-Jeanne-d'Arc                                       	P-Municipalité de paroisse                                	19220130	
+09025	Saint-Gabriel-de-Rimouski                                 	M-Municipalité                                            	19890107	
+09030	Saint-Donat                                               	P-Municipalité de paroisse                                	18690310	
+09035	Sainte-Angèle-de-Mérici                                   	M-Municipalité                                            	19890426	
+09040	Padoue                                                    	M-Municipalité                                            	19120101	
+09048	Métis-sur-Mer                                             	V-Ville                                                   	20020704	
+09055	Saint-Octave-de-Métis                                     	P-Municipalité de paroisse                                	19311024	
+09060	Grand-Métis                                               	M-Municipalité                                            	18550913	
+09065	Price                                                     	VL-Municipalité de village                                	19260303	
+09070	Saint-Joseph-de-Lepage                                    	P-Municipalité de paroisse                                	18730929	
+09077	Mont-Joli                                                 	V-Ville                                                   	20010613	
+09085	Sainte-Flavie                                             	P-Municipalité de paroisse                                	18550701	
+09092	Sainte-Luce                                               	M-Municipalité                                            	20010829	
+09902	Lac-des-Eaux-Mortes                                       	NO-Territoire non organisé                                	18550701	
+09904	Lac-à-la-Croix                                            	NO-Territoire non organisé                                	18550701	
+10005	Esprit-Saint                                              	M-Municipalité                                            	19720513	
+10010	La Trinité-des-Monts                                      	P-Municipalité de paroisse                                	19650101	
+10015	Saint-Narcisse-de-Rimouski                                	P-Municipalité de paroisse                                	19220213	
+10025	Saint-Marcellin                                           	P-Municipalité de paroisse                                	19241119	
+10030	Saint-Anaclet-de-Lessard                                  	P-Municipalité de paroisse                                	18590508	
+10043	Rimouski                                                  	V-Ville                                                   	20020101	
+10060	Saint-Valérien                                            	P-Municipalité de paroisse                                	18850619	
+10070	Saint-Fabien                                              	P-Municipalité de paroisse                                	18550701	
+10075	Saint-Eugène-de-Ladrière                                  	P-Municipalité de paroisse                                	19620101	
+10902	Lac-Huron                                                 	NO-Territoire non organisé                                	18550701	
+11005	Saint-Clément                                             	M-Municipalité                                            	18850101	
+11010	Saint-Jean-de-Dieu                                        	M-Municipalité                                            	18650101	
+11015	Sainte-Rita                                               	M-Municipalité                                            	19480101	
+11020	Saint-Guy                                                 	M-Municipalité                                            	19580101	
+11025	Saint-Médard                                              	M-Municipalité                                            	19490101	
+11030	Sainte-Françoise                                          	P-Municipalité de paroisse                                	18731206	
+11035	Saint-Éloi                                                	P-Municipalité de paroisse                                	18550701	
+11040	Trois-Pistoles                                            	V-Ville                                                   	19160309	
+11045	Notre-Dame-des-Neiges                                     	M-Municipalité                                            	18550701	
+11050	Saint-Mathieu-de-Rioux                                    	P-Municipalité de paroisse                                	18650818	
+11055	Saint-Simon                                               	P-Municipalité de paroisse                                	18550701	
+11902	Lac-Boisbouscache                                         	NO-Territoire non organisé                                	18550701	
+12005	Saint-Cyprien                                             	M-Municipalité                                            	18830101	
+12010	Saint-Hubert-de-Rivière-du-Loup                           	M-Municipalité                                            	18950101	
+12015	Saint-Antonin                                             	M-Municipalité                                            	18561211	
+12020	Saint-Modeste                                             	M-Municipalité                                            	18550701	
+12025	Saint-François-Xavier-de-Viger                            	M-Municipalité                                            	19500101	
+12030	Saint-Épiphane                                            	M-Municipalité                                            	18550701	
+12035	Saint-Paul-de-la-Croix                                    	P-Municipalité de paroisse                                	18730101	
+12043	L'Isle-Verte                                              	M-Municipalité                                            	20000209	
+12045	Notre-Dame-des-Sept-Douleurs                              	P-Municipalité de paroisse                                	19110614	
+12057	Cacouna                                                   	M-Municipalité                                            	20060322	
+12065	Saint-Arsène                                              	P-Municipalité de paroisse                                	18550701	
+12072	Rivière-du-Loup                                           	V-Ville                                                   	19981230	
+12080	Notre-Dame-du-Portage                                     	M-Municipalité                                            	18560719	
+12802	Whitworth                                                 	R-Réserve indienne                                        	18550701	
+12804	Cacouna                                                   	R-Réserve indienne                                        	18550701	
+13005	Dégelis                                                   	V-Ville                                                   	18850924	
+13010	Saint-Jean-de-la-Lande                                    	M-Municipalité                                            	19650101	
+13015	Packington                                                	P-Municipalité de paroisse                                	19251006	
+13020	Saint-Marc-du-Lac-Long                                    	P-Municipalité de paroisse                                	19380611	
+13025	Rivière-Bleue                                             	M-Municipalité                                            	19750614	
+13030	Saint-Eusèbe                                              	P-Municipalité de paroisse                                	19120101	
+13040	Saint-Juste-du-Lac                                        	M-Municipalité                                            	19230523	
+13045	Auclair                                                   	M-Municipalité                                            	19540101	
+13050	Lejeune                                                   	M-Municipalité                                            	19640101	
+13055	Biencourt                                                 	M-Municipalité                                            	19470101	
+13060	Lac-des-Aigles                                            	M-Municipalité                                            	19480101	
+13065	Saint-Michel-du-Squatec                                   	M-Municipalité                                            	19280416	
+13073	Témiscouata-sur-le-Lac                                    	V-Ville                                                   	20100505	
+13075	Saint-Pierre-de-Lamy                                      	M-Municipalité                                            	19770604	
+13080	Saint-Louis-du-Ha! Ha!                                    	P-Municipalité de paroisse                                	18740714	
+13085	Saint-Elzéar-de-Témiscouata                               	M-Municipalité                                            	19381119	
+13090	Saint-Honoré-de-Témiscouata                               	M-Municipalité                                            	18810701	
+13095	Pohénégamook                                              	V-Ville                                                   	19731103	
+13100	Saint-Athanase                                            	M-Municipalité                                            	19550101	
+14005	Mont-Carmel                                               	M-Municipalité                                            	18550701	
+14010	Saint-Bruno-de-Kamouraska                                 	M-Municipalité                                            	18870101	
+14018	Saint-Pascal                                              	V-Ville                                                   	20000301	
+14025	Sainte-Hélène-de-Kamouraska                               	M-Municipalité                                            	18550701	
+14030	Saint-Joseph-de-Kamouraska                                	P-Municipalité de paroisse                                	19240114	
+14035	Saint-Alexandre-de-Kamouraska                             	M-Municipalité                                            	18571123	
+14040	Saint-André                                               	M-Municipalité                                            	19870214	
+14045	Saint-Germain                                             	P-Municipalité de paroisse                                	18930629	
+14050	Kamouraska                                                	M-Municipalité                                            	19870425	
+14055	Saint-Denis-De La Bouteillerie                            	M-Municipalité                                            	18550701	
+14060	Saint-Philippe-de-Néri                                    	P-Municipalité de paroisse                                	18751229	
+14065	Rivière-Ouelle                                            	M-Municipalité                                            	18550701	
+14070	Saint-Pacôme                                              	M-Municipalité                                            	19800105	
+14075	Saint-Gabriel-Lalemant                                    	M-Municipalité                                            	19390527	
+14080	Saint-Onésime-d'Ixworth                                   	M-Municipalité                                            	18590513	
+14085	La Pocatière                                              	V-Ville                                                   	19600101	
+14090	Sainte-Anne-de-la-Pocatière                               	P-Municipalité de paroisse                                	18550701	
+14902	Picard                                                    	NO-Territoire non organisé                                	18550701	
+14904	Petit-Lac-Sainte-Anne                                     	NO-Territoire non organisé                                	18550701	
+15005	Saint-Irénée                                              	P-Municipalité de paroisse                                	18550701	
+15013	La Malbaie                                                	V-Ville                                                   	19991201	
+15025	Notre-Dame-des-Monts                                      	M-Municipalité                                            	19350411	
+15030	Saint-Aimé-des-Lacs                                       	M-Municipalité                                            	19500101	
+15035	Clermont                                                  	V-Ville                                                   	19350206	
+15058	Saint-Siméon                                              	M-Municipalité                                            	20010425	
+15065	Baie-Sainte-Catherine                                     	M-Municipalité                                            	19040101	
+15902	Mont-Élie                                                 	NO-Territoire non organisé                                	18550701	
+15904	Sagard                                                    	NO-Territoire non organisé                                	18550701	
+16005	Petite-Rivière-Saint-François                             	M-Municipalité                                            	18550701	
+16013	Baie-Saint-Paul                                           	V-Ville                                                   	19960103	
+16023	L'Isle-aux-Coudres                                        	M-Municipalité                                            	20000823	
+16048	Les Éboulements                                           	M-Municipalité                                            	20010919	
+16050	Saint-Hilarion                                            	P-Municipalité de paroisse                                	18550701	
+16055	Saint-Urbain                                              	P-Municipalité de paroisse                                	18550701	
+16902	Lac-Pikauba                                               	NO-Territoire non organisé                                	18550701	
+17005	Saint-Omer                                                	M-Municipalité                                            	19540101	
+17010	Saint-Pamphile                                            	V-Ville                                                   	18890101	
+17015	Saint-Adalbert                                            	M-Municipalité                                            	19120101	
+17020	Saint-Marcel                                              	M-Municipalité                                            	19040730	
+17025	Sainte-Félicité                                           	M-Municipalité                                            	19500101	
+17030	Sainte-Perpétue                                           	M-Municipalité                                            	18890101	
+17035	Tourville                                                 	M-Municipalité                                            	19181114	
+17040	Saint-Damase-de-L'Islet                                   	M-Municipalité                                            	18981109	
+17045	Saint-Cyrille-de-Lessard                                  	P-Municipalité de paroisse                                	18550701	
+17055	Saint-Aubert                                              	M-Municipalité                                            	18570701	
+17060	Sainte-Louise                                             	P-Municipalité de paroisse                                	18601211	
+17065	Saint-Roch-des-Aulnaies                                   	P-Municipalité de paroisse                                	18550701	
+17070	Saint-Jean-Port-Joli                                      	M-Municipalité                                            	18550701	
+17078	L'Islet                                                   	M-Municipalité                                            	20000101	
+18005	Saint-Just-de-Bretenières                                 	M-Municipalité                                            	19180527	
+18010	Lac-Frontière                                             	M-Municipalité                                            	19170101	
+18015	Saint-Fabien-de-Panet                                     	P-Municipalité de paroisse                                	19080101	
+18020	Sainte-Lucie-de-Beauregard                                	M-Municipalité                                            	19241118	
+18025	Sainte-Apolline-de-Patton                                 	P-Municipalité de paroisse                                	19100101	
+18030	Saint-Paul-de-Montminy                                    	M-Municipalité                                            	18620101	
+18035	Sainte-Euphémie-sur-Rivière-du-Sud                        	M-Municipalité                                            	19080101	
+18040	Notre-Dame-du-Rosaire                                     	M-Municipalité                                            	18950101	
+18045	Cap-Saint-Ignace                                          	M-Municipalité                                            	18550701	
+18050	Montmagny                                                 	V-Ville                                                   	19660402	
+18055	Saint-Pierre-de-la-Rivière-du-Sud                         	P-Municipalité de paroisse                                	18550701	
+18060	Saint-François-de-la-Rivière-du-Sud                       	M-Municipalité                                            	18550701	
+18065	Berthier-sur-Mer                                          	M-Municipalité                                            	18550701	
+18070	Saint-Antoine-de-l'Isle-aux-Grues                         	P-Municipalité de paroisse                                	18550701	
+19005	Saint-Philémon                                            	P-Municipalité de paroisse                                	18930101	
+19010	Notre-Dame-Auxiliatrice-de-Buckland                       	P-Municipalité de paroisse                                	18950101	
+19015	Saint-Nazaire-de-Dorchester                               	P-Municipalité de paroisse                                	19060309	
+19020	Saint-Léon-de-Standon                                     	P-Municipalité de paroisse                                	18740101	
+19025	Saint-Malachie                                            	P-Municipalité de paroisse                                	18740601	
+19030	Saint-Damien-de-Buckland                                  	P-Municipalité de paroisse                                	18910101	
+19037	Armagh                                                    	M-Municipalité                                            	19931229	
+19045	Saint-Nérée-de-Bellechasse                                	M-Municipalité                                            	18870329	
+19050	Saint-Lazare-de-Bellechasse                               	M-Municipalité                                            	18550701	
+19055	Sainte-Claire                                             	M-Municipalité                                            	19771001	
+19062	Saint-Anselme                                             	M-Municipalité                                            	19980107	
+19068	Saint-Henri                                               	M-Municipalité                                            	20020101	
+19070	Honfleur                                                  	M-Municipalité                                            	19150305	
+19075	Saint-Gervais                                             	M-Municipalité                                            	18550701	
+19082	Saint-Raphaël                                             	M-Municipalité                                            	19931208	
+19090	La Durantaye                                              	P-Municipalité de paroisse                                	19100804	
+19097	Saint-Charles-de-Bellechasse                              	M-Municipalité                                            	19931222	
+19105	Beaumont                                                  	M-Municipalité                                            	18550701	
+19110	Saint-Michel-de-Bellechasse                               	M-Municipalité                                            	18550701	
+19117	Saint-Vallier                                             	M-Municipalité                                            	19930310	
+20005	Saint-François-de-l'Île-d'Orléans                         	M-Municipalité                                            	18550701	
+20010	Sainte-Famille-de-l'Île-d'Orléans                         	M-Municipalité                                            	18550701	
+20015	Saint-Jean-de-l'Île-d'Orléans                             	M-Municipalité                                            	18550701	
+20020	Saint-Laurent-de-l'Île-d'Orléans                          	M-Municipalité                                            	18550701	
+20025	Saint-Pierre-de-l'Île-d'Orléans                           	M-Municipalité                                            	18550701	
+20030	Sainte-Pétronille                                         	VL-Municipalité de village                                	18740101	
+21005	Saint-Tite-des-Caps                                       	M-Municipalité                                            	18721224	
+21010	Saint-Ferréol-les-Neiges                                  	M-Municipalité                                            	18550701	
+21015	Saint-Louis-de-Gonzague-du-Cap-Tourmente                  	P-Municipalité de paroisse                                	19170101	
+21020	Saint-Joachim                                             	P-Municipalité de paroisse                                	18550701	
+21025	Beaupré                                                   	V-Ville                                                   	19280423	
+21030	Sainte-Anne-de-Beaupré                                    	V-Ville                                                   	19730127	
+21035	Château-Richer                                            	V-Ville                                                   	18550701	
+21040	L'Ange-Gardien                                            	M-Municipalité                                            	18550701	
+21045	Boischatel                                                	M-Municipalité                                            	19200403	
+21902	Sault-au-Cochon                                           	NO-Territoire non organisé                                	18550701	
+21904	Lac-Jacques-Cartier                                       	NO-Territoire non organisé                                	18550701	
+22005	Sainte-Catherine-de-la-Jacques-Cartier                    	V-Ville                                                   	18550701	
+22010	Fossambault-sur-le-Lac                                    	V-Ville                                                   	19490310	
+22015	Lac-Saint-Joseph                                          	V-Ville                                                   	19360610	
+22020	Shannon                                                   	V-Ville                                                   	19470101	
+22025	Saint-Gabriel-de-Valcartier                               	M-Municipalité                                            	19851005	
+22030	Lac-Delage                                                	V-Ville                                                   	19590211	
+22035	Stoneham-et-Tewkesbury                                    	CU-Municipalité de cantons unis                           	18550701	
+22040	Lac-Beauport                                              	M-Municipalité                                            	18550701	
+22045	Sainte-Brigitte-de-Laval                                  	V-Ville                                                   	18750211	
+22902	Lac-Croche                                                	NO-Territoire non organisé                                	18550701	
+23015	Notre-Dame-des-Anges                                      	P-Municipalité de paroisse                                	18831001	
+23027	Québec                                                    	V-Ville                                                   	20020101	
+23057	L'Ancienne-Lorette                                        	V-Ville                                                   	20060101	
+23072	Saint-Augustin-de-Desmaures                               	V-Ville                                                   	20060101	
+23802	Wendake                                                   	R-Réserve indienne                                        	18550701	
+25213	Lévis                                                     	V-Ville                                                   	20020101	
+26005	Frampton                                                  	M-Municipalité                                            	18550701	
+26010	Saints-Anges                                              	P-Municipalité de paroisse                                	18801229	
+26015	Vallée-Jonction                                           	M-Municipalité                                            	19890322	
+26022	Saint-Elzéar                                              	M-Municipalité                                            	19941130	
+26030	Sainte-Marie                                              	V-Ville                                                   	19780415	
+26035	Sainte-Marguerite                                         	P-Municipalité de paroisse                                	18550701	
+26040	Sainte-Hénédine                                           	P-Municipalité de paroisse                                	18550701	
+26048	Scott                                                     	M-Municipalité                                            	19950329	
+26055	Saint-Bernard                                             	M-Municipalité                                            	19870509	
+26063	Saint-Isidore                                             	M-Municipalité                                            	19930922	
+26070	Saint-Lambert-de-Lauzon                                   	M-Municipalité                                            	20020101	
+27008	Saint-Victor                                              	M-Municipalité                                            	19961231	
+27015	Saint-Alfred                                              	M-Municipalité                                            	19500101	
+27028	Beauceville                                               	V-Ville                                                   	19980225	
+27035	Saint-Odilon-de-Cranbourne                                	P-Municipalité de paroisse                                	18550701	
+27043	Saint-Joseph-de-Beauce                                    	V-Ville                                                   	19990127	
+27050	Saint-Joseph-des-Érables                                  	M-Municipalité                                            	19381126	
+27055	Saint-Jules                                               	P-Municipalité de paroisse                                	19190528	
+27060	Tring-Jonction                                            	VL-Municipalité de village                                	19181121	
+27065	Saint-Frédéric                                            	P-Municipalité de paroisse                                	18560828	
+27070	Saint-Séverin                                             	P-Municipalité de paroisse                                	18751224	
+28005	Saint-Zacharie                                            	M-Municipalité                                            	19900418	
+28015	Sainte-Aurélie                                            	M-Municipalité                                            	19090403	
+28020	Saint-Prosper                                             	M-Municipalité                                            	18880101	
+28025	Saint-Benjamin                                            	M-Municipalité                                            	18970109	
+28030	Sainte-Rose-de-Watford                                    	M-Municipalité                                            	18980101	
+28035	Saint-Louis-de-Gonzague                                   	M-Municipalité                                            	19230317	
+28040	Saint-Cyprien                                             	P-Municipalité de paroisse                                	19180222	
+28045	Sainte-Justine                                            	M-Municipalité                                            	18930101	
+28053	Lac-Etchemin                                              	M-Municipalité                                            	20011010	
+28060	Saint-Luc-de-Bellechasse                                  	M-Municipalité                                            	19210812	
+28065	Sainte-Sabine                                             	P-Municipalité de paroisse                                	19090101	
+28070	Saint-Camille-de-Lellis                                   	P-Municipalité de paroisse                                	19040111	
+28075	Saint-Magloire                                            	M-Municipalité                                            	18750101	
+29005	Saint-Théophile                                           	M-Municipalité                                            	19750628	
+29013	Saint-Gédéon-de-Beauce                                    	M-Municipalité                                            	20030212	
+29020	Saint-Hilaire-de-Dorset                                   	P-Municipalité de paroisse                                	19160412	
+29025	Saint-Évariste-de-Forsyth                                 	M-Municipalité                                            	18700301	
+29030	La Guadeloupe                                             	VL-Municipalité de village                                	19290806	
+29038	Saint-Honoré-de-Shenley                                   	M-Municipalité                                            	20000419	
+29045	Saint-Martin                                              	P-Municipalité de paroisse                                	19120101	
+29050	Saint-René                                                	P-Municipalité de paroisse                                	19450101	
+29057	Saint-Côme--Linière                                       	M-Municipalité                                            	19940413	
+29065	Saint-Philibert                                           	M-Municipalité                                            	19210225	
+29073	Saint-Georges                                             	V-Ville                                                   	20010926	
+29095	Lac-Poulin                                                	VL-Municipalité de village                                	19590305	
+29100	Saint-Benoît-Labre                                        	M-Municipalité                                            	18950101	
+29112	Saint-Éphrem-de-Beauce                                    	M-Municipalité                                            	19971224	
+29120	Notre-Dame-des-Pins                                       	P-Municipalité de paroisse                                	19260629	
+29125	Saint-Simon-les-Mines                                     	M-Municipalité                                            	19500601	
+30005	Saint-Augustin-de-Woburn                                  	P-Municipalité de paroisse                                	19010101	
+30010	Notre-Dame-des-Bois                                       	M-Municipalité                                            	18770101	
+30015	Val-Racine                                                	M-Municipalité                                            	19080101	
+30020	Piopolis                                                  	M-Municipalité                                            	18800101	
+30025	Frontenac                                                 	M-Municipalité                                            	18820101	
+30030	Lac-Mégantic                                              	V-Ville                                                   	19070314	
+30035	Marston                                                   	CT-Municipalité de canton                                 	18740101	
+30040	Milan                                                     	M-Municipalité                                            	19480601	
+30045	Nantes                                                    	M-Municipalité                                            	18740101	
+30050	Sainte-Cécile-de-Whitton                                  	M-Municipalité                                            	18900101	
+30055	Audet                                                     	M-Municipalité                                            	19040101	
+30070	Saint-Robert-Bellarmin                                    	M-Municipalité                                            	19490101	
+30072	Saint-Ludger                                              	M-Municipalité                                            	19980225	
+30080	Lac-Drolet                                                	M-Municipalité                                            	18550101	
+30085	Saint-Sébastien                                           	M-Municipalité                                            	19750315	
+30090	Courcelles                                                	M-Municipalité                                            	19050101	
+30095	Lambton                                                   	M-Municipalité                                            	19761223	
+30100	Saint-Romain                                              	M-Municipalité                                            	18580101	
+30105	Stornoway                                                 	M-Municipalité                                            	18580101	
+30110	Stratford                                                 	CT-Municipalité de canton                                 	18740101	
+31008	Beaulac-Garthby                                           	M-Municipalité                                            	20000315	
+31015	Disraeli                                                  	V-Ville                                                   	19041119	
+31020	Disraeli                                                  	P-Municipalité de paroisse                                	18830101	
+31025	Saint-Jacques-le-Majeur-de-Wolfestown                     	P-Municipalité de paroisse                                	19100101	
+31030	Saint-Fortunat                                            	M-Municipalité                                            	18730101	
+31035	Saint-Julien                                              	M-Municipalité                                            	18550701	
+31040	Irlande                                                   	M-Municipalité                                            	18550701	
+31045	Saint-Joseph-de-Coleraine                                 	M-Municipalité                                            	18920101	
+31050	Sainte-Praxède                                            	P-Municipalité de paroisse                                	19440101	
+31056	Adstock                                                   	M-Municipalité                                            	20011024	
+31060	Sainte-Clotilde-de-Beauce                                 	M-Municipalité                                            	19381119	
+31084	Thetford Mines                                            	V-Ville                                                   	20011017	
+31095	Saint-Adrien-d'Irlande                                    	M-Municipalité                                            	18730101	
+31100	Saint-Jean-de-Brébeuf                                     	M-Municipalité                                            	19460101	
+31105	Kinnear's Mills                                           	M-Municipalité                                            	18550701	
+31122	East Broughton                                            	M-Municipalité                                            	19940105	
+31130	Sacré-Coeur-de-Jésus                                      	P-Municipalité de paroisse                                	19030101	
+31135	Saint-Pierre-de-Broughton                                 	M-Municipalité                                            	19741012	
+31140	Saint-Jacques-de-Leeds                                    	M-Municipalité                                            	19290923	
+32013	Saint-Ferdinand                                           	M-Municipalité                                            	20001129	
+32023	Sainte-Sophie-d'Halifax                                   	M-Municipalité                                            	19971217	
+32033	Princeville                                               	V-Ville                                                   	20000223	
+32040	Plessisville                                              	V-Ville                                                   	18550427	
+32045	Plessisville                                              	P-Municipalité de paroisse                                	18550701	
+32050	Saint-Pierre-Baptiste                                     	P-Municipalité de paroisse                                	18880101	
+32058	Inverness                                                 	M-Municipalité                                            	19980909	
+32065	Lyster                                                    	M-Municipalité                                            	19760918	
+32072	Laurierville                                              	M-Municipalité                                            	19971126	
+32080	Notre-Dame-de-Lourdes                                     	P-Municipalité de paroisse                                	18980101	
+32085	Villeroy                                                  	M-Municipalité                                            	19240922	
+33007	Saint-Sylvestre                                           	M-Municipalité                                            	19961204	
+33017	Sainte-Agathe-de-Lotbinière                               	M-Municipalité                                            	19990203	
+33025	Saint-Patrice-de-Beaurivage                               	M-Municipalité                                            	19840929	
+33030	Saint-Narcisse-de-Beaurivage                              	P-Municipalité de paroisse                                	18740501	
+33035	Saint-Gilles                                              	M-Municipalité                                            	18550701	
+33040	Dosquet                                                   	M-Municipalité                                            	19121224	
+33045	Saint-Agapit                                              	M-Municipalité                                            	19790414	
+33052	Saint-Flavien                                             	M-Municipalité                                            	19991229	
+33060	Laurier-Station                                           	VL-Municipalité de village                                	19510101	
+33065	Saint-Janvier-de-Joly                                     	M-Municipalité                                            	19440101	
+33070	Val-Alain                                                 	M-Municipalité                                            	19500101	
+33080	Saint-Édouard-de-Lotbinière                               	P-Municipalité de paroisse                                	18621201	
+33085	Notre-Dame-du-Sacré-Coeur-d'Issoudun                      	P-Municipalité de paroisse                                	19090104	
+33090	Saint-Apollinaire                                         	M-Municipalité                                            	19740406	
+33095	Saint-Antoine-de-Tilly                                    	M-Municipalité                                            	18550701	
+33102	Sainte-Croix                                              	M-Municipalité                                            	20011005	
+33115	Lotbinière                                                	M-Municipalité                                            	19790101	
+33123	Leclercville                                              	M-Municipalité                                            	20000126	
+34007	Neuville                                                  	V-Ville                                                   	19970102	
+34017	Pont-Rouge                                                	V-Ville                                                   	19960103	
+34025	Donnacona                                                 	V-Ville                                                   	19670121	
+34030	Cap-Santé                                                 	V-Ville                                                   	18550701	
+34038	Saint-Basile                                              	V-Ville                                                   	20000301	
+34048	Portneuf                                                  	V-Ville                                                   	20020704	
+34058	Deschambault-Grondines                                    	M-Municipalité                                            	20020227	
+34060	Saint-Gilbert                                             	P-Municipalité de paroisse                                	18930427	
+34065	Saint-Marc-des-Carrières                                  	V-Ville                                                   	19181024	
+34078	Saint-Casimir                                             	M-Municipalité                                            	20000621	
+34085	Saint-Thuribe                                             	P-Municipalité de paroisse                                	18980214	
+34090	Saint-Ubalde                                              	M-Municipalité                                            	19730303	
+34097	Saint-Alban                                               	M-Municipalité                                            	19911231	
+34105	Sainte-Christine-d'Auvergne                               	M-Municipalité                                            	18960410	
+34115	Saint-Léonard-de-Portneuf                                 	M-Municipalité                                            	18990722	
+34120	Lac-Sergent                                               	V-Ville                                                   	19210225	
+34128	Saint-Raymond                                             	V-Ville                                                   	19950329	
+34135	Rivière-à-Pierre                                          	M-Municipalité                                            	18971011	
+34902	Lac-Blanc                                                 	NO-Territoire non organisé                                	18550701	
+34904	Linton                                                    	NO-Territoire non organisé                                	18550701	
+34906	Lac-Lapeyrère                                             	NO-Territoire non organisé                                	18550701	
+35005	Notre-Dame-de-Montauban                                   	M-Municipalité                                            	19760103	
+35010	Lac-aux-Sables                                            	P-Municipalité de paroisse                                	18990424	
+35015	Saint-Adelphe                                             	P-Municipalité de paroisse                                	18911019	
+35020	Saint-Séverin                                             	P-Municipalité de paroisse                                	18900411	
+35027	Saint-Tite                                                	V-Ville                                                   	19981223	
+35035	Hérouxville                                               	P-Municipalité de paroisse                                	19040413	
+35040	Grandes-Piles                                             	VL-Municipalité de village                                	18850810	
+35045	Saint-Roch-de-Mékinac                                     	P-Municipalité de paroisse                                	19051102	
+35050	Sainte-Thècle                                             	M-Municipalité                                            	19890607	
+35055	Trois-Rives                                               	M-Municipalité                                            	19720902	
+35902	Lac-Masketsi                                              	NO-Territoire non organisé                                	18550701	
+35904	Lac-Normand                                               	NO-Territoire non organisé                                	18550701	
+35906	Rivière-de-la-Savane                                      	NO-Territoire non organisé                                	18550701	
+35908	Lac-Boulé                                                 	NO-Territoire non organisé                                	18550701	
+36033	Shawinigan                                                	V-Ville                                                   	20020101	
+37067	Trois-Rivières                                            	V-Ville                                                   	20020101	
+37205	Sainte-Anne-de-la-Pérade                                  	M-Municipalité                                            	20020101	
+37210	Batiscan                                                  	M-Municipalité                                            	20020101	
+37215	Sainte-Geneviève-de-Batiscan                              	P-Municipalité de paroisse                                	20020101	
+37220	Champlain                                                 	M-Municipalité                                            	20020101	
+37225	Saint-Luc-de-Vincennes                                    	M-Municipalité                                            	20020101	
+37230	Saint-Maurice                                             	P-Municipalité de paroisse                                	20020101	
+37235	Notre-Dame-du-Mont-Carmel                                 	P-Municipalité de paroisse                                	20020101	
+37240	Saint-Narcisse                                            	P-Municipalité de paroisse                                	20020101	
+37245	Saint-Stanislas                                           	M-Municipalité                                            	20020101	
+37250	Saint-Prosper-de-Champlain                                	M-Municipalité                                            	20020101	
+38005	Saint-Sylvère                                             	M-Municipalité                                            	19760918	
+38010	Bécancour                                                 	V-Ville                                                   	19651009	
+38015	Sainte-Marie-de-Blandford                                 	M-Municipalité                                            	19761223	
+38020	Lemieux                                                   	M-Municipalité                                            	19220814	
+38028	Manseau                                                   	M-Municipalité                                            	19971231	
+38035	Sainte-Françoise                                          	M-Municipalité                                            	19470101	
+38040	Sainte-Sophie-de-Lévrard                                  	P-Municipalité de paroisse                                	18750423	
+38047	Fortierville                                              	M-Municipalité                                            	19980603	
+38055	Parisville                                                	P-Municipalité de paroisse                                	19010318	
+38060	Sainte-Cécile-de-Lévrard                                  	P-Municipalité de paroisse                                	19080901	
+38065	Saint-Pierre-les-Becquets                                 	M-Municipalité                                            	19860222	
+38070	Deschaillons-sur-Saint-Laurent                            	M-Municipalité                                            	19900523	
+38802	Wôlinak                                                   	R-Réserve indienne                                        	18550701	
+39005	Saints-Martyrs-Canadiens                                  	P-Municipalité de paroisse                                	19450101	
+39010	Ham-Nord                                                  	CT-Municipalité de canton                                 	18640101	
+39015	Notre-Dame-de-Ham                                         	M-Municipalité                                            	18990101	
+39020	Saint-Rémi-de-Tingwick                                    	M-Municipalité                                            	18820101	
+39025	Tingwick                                                  	M-Municipalité                                            	19811212	
+39030	Chesterville                                              	M-Municipalité                                            	19821218	
+39035	Sainte-Hélène-de-Chester                                  	M-Municipalité                                            	18590101	
+39043	Saint-Norbert-d'Arthabaska                                	M-Municipalité                                            	20091021	
+39060	Saint-Christophe-d'Arthabaska                             	P-Municipalité de paroisse                                	18550701	
+39062	Victoriaville                                             	V-Ville                                                   	19930623	
+39077	Warwick                                                   	V-Ville                                                   	20000315	
+39085	Saint-Albert                                              	M-Municipalité                                            	18640101	
+39090	Sainte-Élizabeth-de-Warwick                               	M-Municipalité                                            	18870518	
+39097	Kingsey Falls                                             	V-Ville                                                   	19971231	
+39105	Sainte-Séraphine                                          	P-Municipalité de paroisse                                	19310307	
+39117	Sainte-Clotilde-de-Horton                                 	M-Municipalité                                            	19970326	
+39130	Saint-Samuel                                              	M-Municipalité                                            	18780309	
+39135	Saint-Valère                                              	M-Municipalité                                            	18620101	
+39145	Saint-Rosaire                                             	P-Municipalité de paroisse                                	18970101	
+39152	Daveluyville                                              	V-Ville                                                   	20160309	
+39165	Maddington Falls                                          	M-Municipalité                                            	19030101	
+39170	Saint-Louis-de-Blandford                                  	M-Municipalité                                            	18550701	
+40005	Ham-Sud                                                   	M-Municipalité                                            	18790101	
+40010	Saint-Adrien                                              	M-Municipalité                                            	18790101	
+40017	Wotton                                                    	M-Municipalité                                            	19930310	
+40025	Saint-Camille                                             	CT-Municipalité de canton                                 	18600101	
+40032	Saint-Georges-de-Windsor                                  	M-Municipalité                                            	19941130	
+40043	Asbestos                                                  	V-Ville                                                   	19991208	
+40047	Danville                                                  	V-Ville                                                   	19990317	
+41012	Saint-Isidore-de-Clifton                                  	M-Municipalité                                            	19971224	
+41020	Chartierville                                             	M-Municipalité                                            	18790101	
+41027	La Patrie                                                 	M-Municipalité                                            	19971224	
+41037	Newport                                                   	M-Municipalité                                            	20060101	
+41038	Cookshire-Eaton                                           	V-Ville                                                   	20020724	
+41055	Ascot Corner                                              	M-Municipalité                                            	19010328	
+41060	East Angus                                                	V-Ville                                                   	19120314	
+41065	Westbury                                                  	CT-Municipalité de canton                                 	18580816	
+41070	Bury                                                      	M-Municipalité                                            	18550701	
+41075	Hampden                                                   	CT-Municipalité de canton                                 	18740101	
+41080	Scotstown                                                 	V-Ville                                                   	18920624	
+41085	Lingwick                                                  	CT-Municipalité de canton                                 	18550701	
+41098	Weedon                                                    	M-Municipalité                                            	20000209	
+41117	Dudswell                                                  	M-Municipalité                                            	19951011	
+42005	Stoke                                                     	M-Municipalité                                            	18640101	
+42020	Saint-François-Xavier-de-Brompton                         	M-Municipalité                                            	18880101	
+42025	Saint-Denis-de-Brompton                                   	M-Municipalité                                            	19350306	
+42032	Racine                                                    	M-Municipalité                                            	19950215	
+42040	Bonsecours                                                	M-Municipalité                                            	19060101	
+42045	Lawrenceville                                             	VL-Municipalité de village                                	19050427	
+42050	Sainte-Anne-de-la-Rochelle                                	M-Municipalité                                            	18550701	
+42055	Valcourt                                                  	V-Ville                                                   	19291019	
+42060	Valcourt                                                  	CT-Municipalité de canton                                 	18550701	
+42065	Maricourt                                                 	M-Municipalité                                            	18640101	
+42070	Kingsbury                                                 	VL-Municipalité de village                                	18960707	
+42075	Melbourne                                                 	CT-Municipalité de canton                                 	18550701	
+42078	Ulverton                                                  	M-Municipalité                                            	19991215	
+42088	Windsor                                                   	V-Ville                                                   	19991229	
+42095	Val-Joli                                                  	M-Municipalité                                            	18550701	
+42098	Richmond                                                  	V-Ville                                                   	19991229	
+42100	Saint-Claude                                              	M-Municipalité                                            	19130101	
+42110	Cleveland                                                 	CT-Municipalité de canton                                 	18550701	
+43027	Sherbrooke                                                	V-Ville                                                   	20020101	
+44003	Saint-Malo                                                	M-Municipalité                                            	19970430	
+44005	Saint-Venant-de-Paquette                                  	M-Municipalité                                            	19170611	
+44010	East Hereford                                             	M-Municipalité                                            	18550701	
+44015	Saint-Herménégilde                                        	M-Municipalité                                            	19851012	
+44023	Dixville                                                  	M-Municipalité                                            	19950927	
+44037	Coaticook                                                 	V-Ville                                                   	19981230	
+44045	Barnston-Ouest                                            	M-Municipalité                                            	19460101	
+44050	Stanstead-Est                                             	M-Municipalité                                            	19320716	
+44055	Sainte-Edwidge-de-Clifton                                 	CT-Municipalité de canton                                 	18951221	
+44060	Martinville                                               	M-Municipalité                                            	18550701	
+44071	Compton                                                   	M-Municipalité                                            	19991208	
+44080	Waterville                                                	V-Ville                                                   	20020101	
+45008	Stanstead                                                 	V-Ville                                                   	19950215	
+45020	Ogden                                                     	M-Municipalité                                            	19320123	
+45025	Stanstead                                                 	CT-Municipalité de canton                                 	18550701	
+45030	Potton                                                    	CT-Municipalité de canton                                 	18550701	
+45035	Ayer's Cliff                                              	VL-Municipalité de village                                	19090204	
+45043	Hatley                                                    	M-Municipalité                                            	19950927	
+45050	North Hatley                                              	VL-Municipalité de village                                	18971025	
+45055	Hatley                                                    	CT-Municipalité de canton                                 	18550701	
+45060	Sainte-Catherine-de-Hatley                                	M-Municipalité                                            	19010328	
+45072	Magog                                                     	V-Ville                                                   	20021009	
+45080	Saint-Benoît-du-Lac                                       	M-Municipalité                                            	19390316	
+45085	Austin                                                    	M-Municipalité                                            	19381105	
+45093	Eastman                                                   	M-Municipalité                                            	20010530	
+45095	Bolton-Est                                                	M-Municipalité                                            	18761228	
+45100	Saint-Étienne-de-Bolton                                   	M-Municipalité                                            	19390527	
+45105	Stukely-Sud                                               	VL-Municipalité de village                                	19350914	
+45115	Orford                                                    	CT-Municipalité de canton                                 	18550701	
+46005	Abercorn                                                  	VL-Municipalité de village                                	19290625	
+46010	Frelighsburg                                              	M-Municipalité                                            	19850928	
+46017	Saint-Armand                                              	M-Municipalité                                            	19990203	
+46025	Pike River                                                	M-Municipalité                                            	19120403	
+46030	Stanbridge Station                                        	M-Municipalité                                            	18890321	
+46035	Bedford                                                   	V-Ville                                                   	18901121	
+46040	Bedford                                                   	CT-Municipalité de canton                                 	19190304	
+46045	Stanbridge East                                           	M-Municipalité                                            	18550701	
+46050	Dunham                                                    	V-Ville                                                   	19710925	
+46058	Sutton                                                    	V-Ville                                                   	20020704	
+46065	Bolton-Ouest                                              	M-Municipalité                                            	18761228	
+46070	Brome                                                     	VL-Municipalité de village                                	19230620	
+46075	Lac-Brome                                                 	V-Ville                                                   	19710102	
+46078	Bromont                                                   	V-Ville                                                   	20100101	
+46080	Cowansville                                               	V-Ville                                                   	19310711	
+46085	East Farnham                                              	M-Municipalité                                            	19140827	
+46090	Brigham                                                   	M-Municipalité                                            	18550701	
+46095	Saint-Ignace-de-Stanbridge                                	M-Municipalité                                            	18890321	
+46100	Notre-Dame-de-Stanbridge                                  	M-Municipalité                                            	18890323	
+46105	Sainte-Sabine                                             	M-Municipalité                                            	19210319	
+46112	Farnham                                                   	V-Ville                                                   	20000308	
+47010	Saint-Alphonse-de-Granby                                  	M-Municipalité                                            	18901230	
+47017	Granby                                                    	V-Ville                                                   	20070101	
+47025	Waterloo                                                  	V-Ville                                                   	18670101	
+47030	Warden                                                    	VL-Municipalité de village                                	19160331	
+47035	Shefford                                                  	CT-Municipalité de canton                                 	18550701	
+47040	Saint-Joachim-de-Shefford                                 	M-Municipalité                                            	18840610	
+47047	Roxton Pond                                               	M-Municipalité                                            	19971217	
+47055	Sainte-Cécile-de-Milton                                   	M-Municipalité                                            	18640101	
+48005	Béthanie                                                  	M-Municipalité                                            	19200302	
+48010	Roxton Falls                                              	VL-Municipalité de village                                	18630101	
+48015	Roxton                                                    	CT-Municipalité de canton                                 	18550701	
+48020	Sainte-Christine                                          	P-Municipalité de paroisse                                	18940108	
+48028	Acton Vale                                                	V-Ville                                                   	20000126	
+48038	Upton                                                     	M-Municipalité                                            	19980225	
+48045	Saint-Théodore-d'Acton                                    	M-Municipalité                                            	18640101	
+48050	Saint-Nazaire-d'Acton                                     	P-Municipalité de paroisse                                	18940108	
+49005	Saint-Félix-de-Kingsey                                    	M-Municipalité                                            	18550701	
+49015	Durham-Sud                                                	M-Municipalité                                            	19751101	
+49020	Lefebvre                                                  	M-Municipalité                                            	19221010	
+49025	L'Avenir                                                  	M-Municipalité                                            	19761223	
+49030	Saint-Lucien                                              	M-Municipalité                                            	19080101	
+49040	Wickham                                                   	M-Municipalité                                            	19721223	
+49048	Saint-Germain-de-Grantham                                 	M-Municipalité                                            	19950222	
+49058	Drummondville                                             	V-Ville                                                   	20040707	
+49070	Saint-Cyrille-de-Wendover                                 	M-Municipalité                                            	19050906	
+49075	Notre-Dame-du-Bon-Conseil                                 	VL-Municipalité de village                                	19570101	
+49080	Notre-Dame-du-Bon-Conseil                                 	P-Municipalité de paroisse                                	18980215	
+49085	Sainte-Brigitte-des-Saults                                	P-Municipalité de paroisse                                	18780309	
+49095	Saint-Majorique-de-Grantham                               	P-Municipalité de paroisse                                	19020101	
+49100	Saint-Edmond-de-Grantham                                  	P-Municipalité de paroisse                                	19180209	
+49105	Saint-Eugène                                              	M-Municipalité                                            	18791031	
+49113	Saint-Guillaume                                           	M-Municipalité                                            	19951108	
+49125	Saint-Bonaventure                                         	M-Municipalité                                            	18670101	
+49130	Saint-Pie-de-Guire                                        	P-Municipalité de paroisse                                	18660614	
+50005	Sainte-Eulalie                                            	M-Municipalité                                            	18640701	
+50013	Aston-Jonction                                            	M-Municipalité                                            	19970326	
+50023	Saint-Wenceslas                                           	M-Municipalité                                            	19951011	
+50030	Saint-Célestin                                            	VL-Municipalité de village                                	18961125	
+50035	Saint-Célestin                                            	M-Municipalité                                            	18640701	
+50042	Saint-Léonard-d'Aston                                     	M-Municipalité                                            	19940413	
+50050	Sainte-Perpétue                                           	P-Municipalité de paroisse                                	18780309	
+50057	Sainte-Monique                                            	M-Municipalité                                            	19960103	
+50065	Grand-Saint-Esprit                                        	M-Municipalité                                            	19380514	
+50072	Nicolet                                                   	V-Ville                                                   	20001227	
+50085	La Visitation-de-Yamaska                                  	M-Municipalité                                            	18990202	
+50090	Saint-Zéphirin-de-Courval                                 	P-Municipalité de paroisse                                	18550701	
+50095	Saint-Elphège                                             	P-Municipalité de paroisse                                	18860312	
+50100	Baie-du-Febvre                                            	M-Municipalité                                            	19830326	
+50113	Pierreville                                               	M-Municipalité                                            	20010613	
+50128	Saint-François-du-Lac                                     	M-Municipalité                                            	19971231	
+50802	Odanak                                                    	R-Réserve indienne                                        	18550701	
+51008	Maskinongé                                                	M-Municipalité                                            	20010425	
+51015	Louiseville                                               	V-Ville                                                   	19881231	
+51020	Yamachiche                                                	M-Municipalité                                            	19871226	
+51025	Saint-Barnabé                                             	P-Municipalité de paroisse                                	18550701	
+51030	Saint-Sévère                                              	P-Municipalité de paroisse                                	18550701	
+51035	Saint-Léon-le-Grand                                       	P-Municipalité de paroisse                                	18550701	
+51040	Sainte-Ursule                                             	M-Municipalité                                            	18550701	
+51045	Saint-Justin                                              	M-Municipalité                                            	18590308	
+51050	Saint-Édouard-de-Maskinongé                               	M-Municipalité                                            	19500101	
+51055	Sainte-Angèle-de-Prémont                                  	M-Municipalité                                            	19170828	
+51060	Saint-Paulin                                              	M-Municipalité                                            	19880227	
+51065	Saint-Alexis-des-Monts                                    	P-Municipalité de paroisse                                	19840421	
+51070	Saint-Mathieu-du-Parc                                     	M-Municipalité                                            	20020101	
+51075	Saint-Élie-de-Caxton                                      	M-Municipalité                                            	20020101	
+51080	Charette                                                  	M-Municipalité                                            	20020101	
+51085	Saint-Boniface                                            	M-Municipalité                                            	20020101	
+51090	Saint-Étienne-des-Grès                                    	P-Municipalité de paroisse                                	20020101	
+52007	Lavaltrie                                                 	V-Ville                                                   	20010516	
+52017	Lanoraie                                                  	M-Municipalité                                            	20001206	
+52030	Sainte-Élisabeth                                          	M-Municipalité                                            	18550701	
+52035	Berthierville                                             	V-Ville                                                   	18550701	
+52040	Sainte-Geneviève-de-Berthier                              	M-Municipalité                                            	18550701	
+52045	Saint-Ignace-de-Loyola                                    	M-Municipalité                                            	18970211	
+52050	La Visitation-de-l'Île-Dupas                              	M-Municipalité                                            	18550701	
+52055	Saint-Barthélemy                                          	P-Municipalité de paroisse                                	18550701	
+52062	Saint-Cuthbert                                            	M-Municipalité                                            	19980107	
+52070	Saint-Norbert                                             	P-Municipalité de paroisse                                	18550701	
+52075	Saint-Cléophas-de-Brandon                                 	M-Municipalité                                            	18980101	
+52080	Saint-Gabriel                                             	V-Ville                                                   	18921217	
+52085	Saint-Gabriel-de-Brandon                                  	M-Municipalité                                            	18550701	
+52090	Saint-Didace                                              	P-Municipalité de paroisse                                	18630827	
+52095	Mandeville                                                	M-Municipalité                                            	19050101	
+53005	Saint-David                                               	M-Municipalité                                            	18550701	
+53010	Massueville                                               	VL-Municipalité de village                                	19030325	
+53015	Saint-Aimé                                                	M-Municipalité                                            	18550701	
+53020	Saint-Robert                                              	M-Municipalité                                            	18571017	
+53025	Sainte-Victoire-de-Sorel                                  	M-Municipalité                                            	18550701	
+53032	Saint-Ours                                                	V-Ville                                                   	19910417	
+53040	Saint-Roch-de-Richelieu                                   	M-Municipalité                                            	18590604	
+53050	Saint-Joseph-de-Sorel                                     	V-Ville                                                   	19070501	
+53052	Sorel-Tracy                                               	V-Ville                                                   	20000315	
+53065	Sainte-Anne-de-Sorel                                      	M-Municipalité                                            	18770514	
+53072	Yamaska                                                   	M-Municipalité                                            	20011219	
+53085	Saint-Gérard-Majella                                      	P-Municipalité de paroisse                                	19080101	
+54008	Saint-Pie                                                 	V-Ville                                                   	20030228	
+54017	Saint-Damase                                              	M-Municipalité                                            	20011005	
+54025	Sainte-Madeleine                                          	VL-Municipalité de village                                	19191230	
+54030	Sainte-Marie-Madeleine                                    	P-Municipalité de paroisse                                	18790813	
+54035	La Présentation                                           	M-Municipalité                                            	18550701	
+54048	Saint-Hyacinthe                                           	V-Ville                                                   	20011227	
+54060	Saint-Dominique                                           	M-Municipalité                                            	19690719	
+54065	Saint-Valérien-de-Milton                                  	M-Municipalité                                            	18640101	
+54072	Saint-Liboire                                             	M-Municipalité                                            	19940817	
+54090	Saint-Simon                                               	M-Municipalité                                            	18550701	
+54095	Sainte-Hélène-de-Bagot                                    	M-Municipalité                                            	19770709	
+54100	Saint-Hugues                                              	M-Municipalité                                            	19821106	
+54105	Saint-Barnabé-Sud                                         	M-Municipalité                                            	18550701	
+54110	Saint-Jude                                                	M-Municipalité                                            	18790813	
+54115	Saint-Bernard-de-Michaudville                             	M-Municipalité                                            	19080831	
+54120	Saint-Louis                                               	M-Municipalité                                            	18810829	
+54125	Saint-Marcel-de-Richelieu                                 	M-Municipalité                                            	18550701	
+55008	Ange-Gardien                                              	M-Municipalité                                            	19971231	
+55015	Saint-Paul-d'Abbotsford                                   	M-Municipalité                                            	18550701	
+55023	Saint-Césaire                                             	V-Ville                                                   	20000126	
+55030	Sainte-Angèle-de-Monnoir                                  	M-Municipalité                                            	18650315	
+55037	Rougemont                                                 	M-Municipalité                                            	20000126	
+55048	Marieville                                                	V-Ville                                                   	20000614	
+55057	Richelieu                                                 	V-Ville                                                   	20000315	
+55065	Saint-Mathias-sur-Richelieu                               	M-Municipalité                                            	18550701	
+56005	Venise-en-Québec                                          	M-Municipalité                                            	19500101	
+56010	Saint-Georges-de-Clarenceville                            	M-Municipalité                                            	19891227	
+56015	Noyan                                                     	M-Municipalité                                            	18550701	
+56023	Lacolle                                                   	M-Municipalité                                            	20010913	
+56030	Saint-Valentin                                            	M-Municipalité                                            	18550701	
+56035	Saint-Paul-de-l'Île-aux-Noix                              	M-Municipalité                                            	18981118	
+56042	Henryville                                                	M-Municipalité                                            	19991215	
+56050	Saint-Sébastien                                           	M-Municipalité                                            	18650217	
+56055	Saint-Alexandre                                           	M-Municipalité                                            	19880917	
+56060	Sainte-Anne-de-Sabrevois                                  	P-Municipalité de paroisse                                	18980301	
+56065	Saint-Blaise-sur-Richelieu                                	M-Municipalité                                            	18920820	
+56083	Saint-Jean-sur-Richelieu                                  	V-Ville                                                   	20010124	
+56097	Mont-Saint-Grégoire                                       	M-Municipalité                                            	19941221	
+56105	Sainte-Brigide-d'Iberville                                	M-Municipalité                                            	18550701	
+57005	Chambly                                                   	V-Ville                                                   	19650918	
+57010	Carignan                                                  	V-Ville                                                   	18550701	
+57020	Saint-Basile-le-Grand                                     	V-Ville                                                   	18710615	
+57025	McMasterville                                             	M-Municipalité                                            	19170731	
+57030	Otterburn Park                                            	V-Ville                                                   	18550701	
+57033	Saint-Jean-Baptiste                                       	M-Municipalité                                            	19981104	
+57035	Mont-Saint-Hilaire                                        	V-Ville                                                   	19660318	
+57040	Beloeil                                                   	V-Ville                                                   	19031209	
+57045	Saint-Mathieu-de-Beloeil                                  	M-Municipalité                                            	18550701	
+57050	Saint-Marc-sur-Richelieu                                  	M-Municipalité                                            	18550701	
+57057	Saint-Charles-sur-Richelieu                               	M-Municipalité                                            	19950322	
+57068	Saint-Denis-sur-Richelieu                                 	M-Municipalité                                            	19971224	
+57075	Saint-Antoine-sur-Richelieu                               	M-Municipalité                                            	19821106	
+58007	Brossard                                                  	V-Ville                                                   	20060101	
+58012	Saint-Lambert                                             	V-Ville                                                   	20060101	
+58033	Boucherville                                              	V-Ville                                                   	20060101	
+58037	Saint-Bruno-de-Montarville                                	V-Ville                                                   	20060101	
+58227	Longueuil                                                 	V-Ville                                                   	20020101	
+59010	Sainte-Julie                                              	V-Ville                                                   	18550701	
+59015	Saint-Amable                                              	M-Municipalité                                            	19210613	
+59020	Varennes                                                  	V-Ville                                                   	19720826	
+59025	Verchères                                                 	M-Municipalité                                            	19710918	
+59030	Calixa-Lavallée                                           	M-Municipalité                                            	18780724	
+59035	Contrecoeur                                               	V-Ville                                                   	19760101	
+60005	Charlemagne                                               	V-Ville                                                   	19061113	
+60013	Repentigny                                                	V-Ville                                                   	20020601	
+60020	Saint-Sulpice                                             	P-Municipalité de paroisse                                	18550701	
+60028	L'Assomption                                              	V-Ville                                                   	20000701	
+60037	L'Épiphanie                                               	V-Ville                                                   	20180523	
+61005	Saint-Paul                                                	M-Municipalité                                            	18550701	
+61013	Crabtree                                                  	M-Municipalité                                            	19961023	
+61020	Saint-Pierre                                              	VL-Municipalité de village                                	19220424	
+61025	Joliette                                                  	V-Ville                                                   	19661112	
+61027	Saint-Thomas                                              	M-Municipalité                                            	19920122	
+61030	Notre-Dame-des-Prairies                                   	V-Ville                                                   	19570701	
+61035	Saint-Charles-Borromée                                    	V-Ville                                                   	18550701	
+61040	Saint-Ambroise-de-Kildare                                 	M-Municipalité                                            	18550701	
+61045	Notre-Dame-de-Lourdes                                     	M-Municipalité                                            	19251028	
+61050	Sainte-Mélanie                                            	M-Municipalité                                            	18550701	
+62007	Saint-Félix-de-Valois                                     	M-Municipalité                                            	19971224	
+62015	Saint-Jean-de-Matha                                       	M-Municipalité                                            	18550701	
+62020	Sainte-Béatrix                                            	M-Municipalité                                            	18640511	
+62025	Saint-Alphonse-Rodriguez                                  	M-Municipalité                                            	18550701	
+62030	Sainte-Marcelline-de-Kildare                              	M-Municipalité                                            	19560101	
+62037	Rawdon                                                    	M-Municipalité                                            	19980528	
+62047	Chertsey                                                  	M-Municipalité                                            	19911113	
+62053	Entrelacs                                                 	M-Municipalité                                            	19910213	
+62055	Notre-Dame-de-la-Merci                                    	M-Municipalité                                            	19500101	
+62060	Saint-Donat                                               	M-Municipalité                                            	19050101	
+62065	Saint-Côme                                                	M-Municipalité                                            	18730101	
+62070	Sainte-Émélie-de-l'Énergie                                	M-Municipalité                                            	18840610	
+62075	Saint-Damien                                              	P-Municipalité de paroisse                                	18700906	
+62080	Saint-Zénon                                               	M-Municipalité                                            	18960101	
+62085	Saint-Michel-des-Saints                                   	M-Municipalité                                            	19790303	
+62802	Manawan                                                   	R-Réserve indienne                                        	18550701	
+62902	Lac-Minaki                                                	NO-Territoire non organisé                                	18550701	
+62904	Lac-Devenyns                                              	NO-Territoire non organisé                                	18550701	
+62906	Baie-de-la-Bouteille                                      	NO-Territoire non organisé                                	18550701	
+62908	Lac-Matawin                                               	NO-Territoire non organisé                                	18550701	
+62910	Lac-Legendre                                              	NO-Territoire non organisé                                	18550701	
+62912	Saint-Guillaume-Nord                                      	NO-Territoire non organisé                                	18550701	
+62914	Lac-des-Dix-Milles                                        	NO-Territoire non organisé                                	18550701	
+62916	Lac-Santé                                                 	NO-Territoire non organisé                                	18550701	
+62918	Baie-Obaoca                                               	NO-Territoire non organisé                                	18550701	
+62919	Lac-Cabasta                                               	NO-Territoire non organisé                                	19990115	
+62920	Baie-Atibenne                                             	NO-Territoire non organisé                                	18550701	
+62922	Lac-du-Taureau                                            	NO-Territoire non organisé                                	18550701	
+63005	Sainte-Marie-Salomé                                       	M-Municipalité                                            	18881227	
+63013	Saint-Jacques                                             	M-Municipalité                                            	19980520	
+63023	Saint-Alexis                                              	M-Municipalité                                            	20121219	
+63030	Saint-Esprit                                              	M-Municipalité                                            	18550701	
+63035	Saint-Roch-de-l'Achigan                                   	M-Municipalité                                            	18550701	
+63040	Saint-Roch-Ouest                                          	M-Municipalité                                            	19210604	
+63048	Saint-Lin--Laurentides                                    	V-Ville                                                   	20000301	
+63055	Saint-Calixte                                             	M-Municipalité                                            	18550701	
+63060	Sainte-Julienne                                           	M-Municipalité                                            	18550701	
+63065	Saint-Liguori                                             	M-Municipalité                                            	18550701	
+64008	Terrebonne                                                	V-Ville                                                   	20010627	
+64015	Mascouche                                                 	V-Ville                                                   	18550701	
+65005	Laval                                                     	V-Ville                                                   	19650806	
+66007	Montréal-Est                                              	V-Ville                                                   	20060101	
+66023	Montréal                                                  	V-Ville                                                   	20020101	
+66032	Westmount                                                 	V-Ville                                                   	20060101	
+66047	Montréal-Ouest                                            	V-Ville                                                   	20060101	
+66058	Côte-Saint-Luc                                            	V-Ville                                                   	20060101	
+66062	Hampstead                                                 	V-Ville                                                   	20060101	
+66072	Mont-Royal                                                	V-Ville                                                   	20060101	
+66087	Dorval                                                    	V-Ville                                                   	20060101	
+66092	L'Île-Dorval                                              	V-Ville                                                   	20060101	
+66097	Pointe-Claire                                             	V-Ville                                                   	20060101	
+66102	Kirkland                                                  	V-Ville                                                   	20060101	
+66107	Beaconsfield                                              	V-Ville                                                   	20060101	
+66112	Baie-D'Urfé                                               	V-Ville                                                   	20060101	
+66117	Sainte-Anne-de-Bellevue                                   	V-Ville                                                   	20060101	
+66127	Senneville                                                	VL-Municipalité de village                                	20060101	
+66142	Dollard-Des Ormeaux                                       	V-Ville                                                   	20060101	
+67005	Saint-Mathieu                                             	M-Municipalité                                            	19170801	
+67010	Saint-Philippe                                            	V-Ville                                                   	18550701	
+67015	La Prairie                                                	V-Ville                                                   	18550701	
+67020	Candiac                                                   	V-Ville                                                   	19570131	
+67025	Delson                                                    	V-Ville                                                   	19180104	
+67030	Sainte-Catherine                                          	V-Ville                                                   	19371030	
+67035	Saint-Constant                                            	V-Ville                                                   	18550701	
+67040	Saint-Isidore                                             	P-Municipalité de paroisse                                	18550701	
+67045	Mercier                                                   	V-Ville                                                   	18550701	
+67050	Châteauguay                                               	V-Ville                                                   	19750619	
+67055	Léry                                                      	V-Ville                                                   	19140601	
+67802	Kahnawake                                                 	R-Réserve indienne                                        	18550701	
+68005	Saint-Bernard-de-Lacolle                                  	M-Municipalité                                            	18550701	
+68010	Hemmingford                                               	VL-Municipalité de village                                	18780101	
+68015	Hemmingford                                               	CT-Municipalité de canton                                 	18550701	
+68020	Sainte-Clotilde                                           	M-Municipalité                                            	18850402	
+68025	Saint-Patrice-de-Sherrington                              	M-Municipalité                                            	18550701	
+68030	Napierville                                               	M-Municipalité                                            	18550221	
+68035	Saint-Cyprien-de-Napierville                              	M-Municipalité                                            	18550701	
+68040	Saint-Jacques-le-Mineur                                   	M-Municipalité                                            	18550701	
+68045	Saint-Édouard                                             	M-Municipalité                                            	18550701	
+68050	Saint-Michel                                              	M-Municipalité                                            	18550701	
+68055	Saint-Rémi                                                	V-Ville                                                   	19750920	
+69005	Havelock                                                  	CT-Municipalité de canton                                 	18630401	
+69010	Franklin                                                  	M-Municipalité                                            	19730303	
+69017	Saint-Chrysostome                                         	M-Municipalité                                            	19990929	
+69025	Howick                                                    	M-Municipalité                                            	19151129	
+69030	Très-Saint-Sacrement                                      	P-Municipalité de paroisse                                	18850402	
+69037	Ormstown                                                  	M-Municipalité                                            	20000126	
+69045	Hinchinbrooke                                             	M-Municipalité                                            	18550701	
+69050	Elgin                                                     	M-Municipalité                                            	18550701	
+69055	Huntingdon                                                	V-Ville                                                   	18550701	
+69060	Godmanchester                                             	CT-Municipalité de canton                                 	18550701	
+69065	Sainte-Barbe                                              	M-Municipalité                                            	18820612	
+69070	Saint-Anicet                                              	M-Municipalité                                            	18550701	
+69075	Dundee                                                    	CT-Municipalité de canton                                 	18550701	
+69802	Akwesasne                                                 	R-Réserve indienne                                        	18550701	
+70005	Saint-Urbain-Premier                                      	M-Municipalité                                            	18550701	
+70012	Sainte-Martine                                            	M-Municipalité                                            	19990908	
+70022	Beauharnois                                               	V-Ville                                                   	20020101	
+70030	Saint-Étienne-de-Beauharnois                              	M-Municipalité                                            	18670101	
+70035	Saint-Louis-de-Gonzague                                   	P-Municipalité de paroisse                                	18550701	
+70040	Saint-Stanislas-de-Kostka                                 	M-Municipalité                                            	18550701	
+70052	Salaberry-de-Valleyfield                                  	V-Ville                                                   	20020424	
+71005	Rivière-Beaudette                                         	M-Municipalité                                            	19900117	
+71015	Saint-Télesphore                                          	M-Municipalité                                            	18770419	
+71020	Saint-Polycarpe                                           	M-Municipalité                                            	19881231	
+71025	Saint-Zotique                                             	M-Municipalité                                            	19670627	
+71033	Les Coteaux                                               	M-Municipalité                                            	19940518	
+71040	Coteau-du-Lac                                             	V-Ville                                                   	19820206	
+71045	Saint-Clet                                                	M-Municipalité                                            	19740831	
+71050	Les Cèdres                                                	M-Municipalité                                            	19850309	
+71055	Pointe-des-Cascades                                       	VL-Municipalité de village                                	19610501	
+71060	L'Île-Perrot                                              	V-Ville                                                   	18550701	
+71065	Notre-Dame-de-l'Île-Perrot                                	V-Ville                                                   	19840414	
+71070	Pincourt                                                  	V-Ville                                                   	19500101	
+71075	Terrasse-Vaudreuil                                        	M-Municipalité                                            	19520101	
+71083	Vaudreuil-Dorion                                          	V-Ville                                                   	19940316	
+71090	Vaudreuil-sur-le-Lac                                      	VL-Municipalité de village                                	19200519	
+71095	L'Île-Cadieux                                             	V-Ville                                                   	19220321	
+71100	Hudson                                                    	V-Ville                                                   	19690607	
+71105	Saint-Lazare                                              	V-Ville                                                   	18751229	
+71110	Sainte-Marthe                                             	M-Municipalité                                            	19801227	
+71115	Sainte-Justine-de-Newton                                  	M-Municipalité                                            	18550701	
+71125	Très-Saint-Rédempteur                                     	M-Municipalité                                            	18801230	
+71133	Rigaud                                                    	V-Ville                                                   	19951129	
+71140	Pointe-Fortune                                            	VL-Municipalité de village                                	18810101	
+72005	Saint-Eustache                                            	V-Ville                                                   	19720115	
+72010	Deux-Montagnes                                            	V-Ville                                                   	19210818	
+72015	Sainte-Marthe-sur-le-Lac                                  	V-Ville                                                   	19600101	
+72020	Pointe-Calumet                                            	M-Municipalité                                            	19530212	
+72025	Saint-Joseph-du-Lac                                       	M-Municipalité                                            	18550701	
+72032	Oka                                                       	M-Municipalité                                            	19990908	
+72043	Saint-Placide                                             	M-Municipalité                                            	19940803	
+72802	Kanesatake                                                	EI-Établissement amérindien                               	18550701	
+73005	Boisbriand                                                	V-Ville                                                   	19460101	
+73010	Sainte-Thérèse                                            	V-Ville                                                   	18550701	
+73015	Blainville                                                	V-Ville                                                   	18550701	
+73020	Rosemère                                                  	V-Ville                                                   	19470101	
+73025	Lorraine                                                  	V-Ville                                                   	19600204	
+73030	Bois-des-Filion                                           	V-Ville                                                   	19490101	
+73035	Sainte-Anne-des-Plaines                                   	V-Ville                                                   	18550701	
+74005	Mirabel                                                   	V-Ville                                                   	19710101	
+75005	Saint-Colomban                                            	V-Ville                                                   	18550701	
+75017	Saint-Jérôme                                              	V-Ville                                                   	20020101	
+75028	Sainte-Sophie                                             	M-Municipalité                                            	20000503	
+75040	Prévost                                                   	V-Ville                                                   	19730120	
+75045	Saint-Hippolyte                                           	M-Municipalité                                            	18550701	
+76008	Saint-André-d'Argenteuil                                  	M-Municipalité                                            	19991229	
+76020	Lachute                                                   	V-Ville                                                   	19660430	
+76025	Gore                                                      	CT-Municipalité de canton                                 	18550701	
+76030	Mille-Isles                                               	M-Municipalité                                            	18550701	
+76035	Wentworth                                                 	CT-Municipalité de canton                                 	18550701	
+76043	Brownsburg-Chatham                                        	V-Ville                                                   	19991006	
+76052	Grenville-sur-la-Rouge                                    	M-Municipalité                                            	20020424	
+76055	Grenville                                                 	VL-Municipalité de village                                	18760101	
+76065	Harrington                                                	CT-Municipalité de canton                                 	18550701	
+77011	Estérel                                                   	V-Ville                                                   	20060101	
+77012	Sainte-Marguerite-du-Lac-Masson                           	V-Ville                                                   	20011017	
+77022	Sainte-Adèle                                              	V-Ville                                                   	19970827	
+77030	Piedmont                                                  	M-Municipalité                                            	19230922	
+77035	Sainte-Anne-des-Lacs                                      	P-Municipalité de paroisse                                	19460328	
+77043	Saint-Sauveur                                             	V-Ville                                                   	20020911	
+77050	Morin-Heights                                             	M-Municipalité                                            	18550701	
+77055	Lac-des-Seize-Îles                                        	M-Municipalité                                            	19140219	
+77060	Wentworth-Nord                                            	M-Municipalité                                            	19580101	
+77065	Saint-Adolphe-d'Howard                                    	M-Municipalité                                            	18830101	
+78005	Val-Morin                                                 	M-Municipalité                                            	19220627	
+78010	Val-David                                                 	VL-Municipalité de village                                	19210510	
+78015	Lantier                                                   	M-Municipalité                                            	19480101	
+78020	Sainte-Lucie-des-Laurentides                              	M-Municipalité                                            	18740101	
+78032	Sainte-Agathe-des-Monts                                   	V-Ville                                                   	20020227	
+78042	Ivry-sur-le-Lac                                           	M-Municipalité                                            	20060101	
+78047	Saint-Faustin--Lac-Carré                                  	M-Municipalité                                            	19960103	
+78050	Barkmere                                                  	V-Ville                                                   	19260324	
+78055	Montcalm                                                  	M-Municipalité                                            	19080101	
+78060	Arundel                                                   	CT-Municipalité de canton                                 	18780101	
+78065	Huberdeau                                                 	M-Municipalité                                            	19260608	
+78070	Amherst                                                   	CT-Municipalité de canton                                 	18870309	
+78075	Brébeuf                                                   	P-Municipalité de paroisse                                	19100604	
+78095	Lac-Supérieur                                             	M-Municipalité                                            	18810101	
+78100	Val-des-Lacs                                              	M-Municipalité                                            	19320206	
+78102	Mont-Tremblant                                            	V-Ville                                                   	20001122	
+78115	La Conception                                             	M-Municipalité                                            	18820101	
+78120	Labelle                                                   	M-Municipalité                                            	19730127	
+78127	Lac-Tremblant-Nord                                        	M-Municipalité                                            	20060101	
+78130	La Minerve                                                	M-Municipalité                                            	18921230	
+78802	Doncaster                                                 	R-Réserve indienne                                        	18550701	
+79005	Notre-Dame-du-Laus                                        	M-Municipalité                                            	18760101	
+79010	Notre-Dame-de-Pontmain                                    	M-Municipalité                                            	18950101	
+79015	Lac-du-Cerf                                               	M-Municipalité                                            	19550101	
+79022	Saint-Aimé-du-Lac-des-Îles                                	M-Municipalité                                            	20060101	
+79025	Kiamika                                                   	M-Municipalité                                            	18980131	
+79030	Nominingue                                                	M-Municipalité                                            	19711030	
+79037	Rivière-Rouge                                             	V-Ville                                                   	20021218	
+79047	La Macaza                                                 	M-Municipalité                                            	20060101	
+79050	L'Ascension                                               	M-Municipalité                                            	19060101	
+79060	Lac-Saguay                                                	VL-Municipalité de village                                	19510701	
+79065	Chute-Saint-Philippe                                      	M-Municipalité                                            	19401026	
+79078	Lac-des-Écorces                                           	M-Municipalité                                            	20021010	
+79088	Mont-Laurier                                              	V-Ville                                                   	20030108	
+79097	Ferme-Neuve                                               	M-Municipalité                                            	19971224	
+79105	Lac-Saint-Paul                                            	M-Municipalité                                            	19220911	
+79110	Mont-Saint-Michel                                         	M-Municipalité                                            	19280911	
+79115	Sainte-Anne-du-Lac                                        	M-Municipalité                                            	19761230	
+79902	Lac-de-la-Pomme                                           	NO-Territoire non organisé                                	18550701	
+79904	Lac-Akonapwehikan                                         	NO-Territoire non organisé                                	18550701	
+79906	Lac-Wagwabika                                             	NO-Territoire non organisé                                	18550701	
+79910	Lac-Bazinet                                               	NO-Territoire non organisé                                	18550701	
+79912	Lac-De La Bidière                                         	NO-Territoire non organisé                                	18550701	
+79914	Lac-Oscar                                                 	NO-Territoire non organisé                                	18550701	
+79916	Lac-de-la-Maison-de-Pierre                                	NO-Territoire non organisé                                	18550701	
+79920	Baie-des-Chaloupes                                        	NO-Territoire non organisé                                	18550701	
+79922	Lac-Douaire                                               	NO-Territoire non organisé                                	18550701	
+79924	Lac-Ernest                                                	NO-Territoire non organisé                                	18550701	
+79926	Lac-Marguerite                                            	NO-Territoire non organisé                                	18550701	
+80005	Fassett                                                   	M-Municipalité                                            	18550701	
+80010	Montebello                                                	M-Municipalité                                            	18780829	
+80015	Notre-Dame-de-Bonsecours                                  	M-Municipalité                                            	19180307	
+80020	Notre-Dame-de-la-Paix                                     	M-Municipalité                                            	19021003	
+80027	Saint-André-Avellin                                       	M-Municipalité                                            	19971217	
+80037	Papineauville                                             	M-Municipalité                                            	20001129	
+80045	Plaisance                                                 	M-Municipalité                                            	19001031	
+80050	Thurso                                                    	V-Ville                                                   	18860116	
+80055	Lochaber                                                  	CT-Municipalité de canton                                 	18550701	
+80060	Lochaber-Partie-Ouest                                     	CT-Municipalité de canton                                 	18920101	
+80065	Mayo                                                      	M-Municipalité                                            	18640801	
+80070	Saint-Sixte                                               	M-Municipalité                                            	18940101	
+80078	Ripon                                                     	M-Municipalité                                            	20000503	
+80085	Mulgrave-et-Derry                                         	M-Municipalité                                            	18700101	
+80090	Montpellier                                               	M-Municipalité                                            	19201011	
+80095	Lac-Simon                                                 	M-Municipalité                                            	18810101	
+80103	Chénéville                                                	M-Municipalité                                            	19960821	
+80110	Namur                                                     	M-Municipalité                                            	19640101	
+80115	Boileau                                                   	M-Municipalité                                            	18820308	
+80125	Saint-Émile-de-Suffolk                                    	M-Municipalité                                            	18810101	
+80130	Lac-des-Plages                                            	M-Municipalité                                            	19500101	
+80135	Duhamel                                                   	M-Municipalité                                            	19360815	
+80140	Val-des-Bois                                              	M-Municipalité                                            	18850101	
+80145	Bowman                                                    	M-Municipalité                                            	19130627	
+81017	Gatineau                                                  	V-Ville                                                   	20020101	
+82005	L'Ange-Gardien                                            	M-Municipalité                                            	19800101	
+82010	Notre-Dame-de-la-Salette                                  	M-Municipalité                                            	19800101	
+82015	Val-des-Monts                                             	M-Municipalité                                            	19750101	
+82020	Cantley                                                   	M-Municipalité                                            	19890101	
+82025	Chelsea                                                   	M-Municipalité                                            	18750101	
+82030	Pontiac                                                   	M-Municipalité                                            	19750101	
+82035	La Pêche                                                  	M-Municipalité                                            	19750101	
+83005	Denholm                                                   	M-Municipalité                                            	19240227	
+83010	Low                                                       	CT-Municipalité de canton                                 	18580101	
+83015	Kazabazua                                                 	M-Municipalité                                            	18620101	
+83020	Lac-Sainte-Marie                                          	M-Municipalité                                            	18720101	
+83032	Gracefield                                                	V-Ville                                                   	20020313	
+83040	Cayamant                                                  	M-Municipalité                                            	19061010	
+83045	Blue Sea                                                  	M-Municipalité                                            	19210131	
+83050	Bouchette                                                 	M-Municipalité                                            	19800322	
+83055	Sainte-Thérèse-de-la-Gatineau                             	M-Municipalité                                            	19460101	
+83060	Messines                                                  	M-Municipalité                                            	19210819	
+83065	Maniwaki                                                  	V-Ville                                                   	19040125	
+83070	Déléage                                                   	M-Municipalité                                            	18810101	
+83075	Egan-Sud                                                  	M-Municipalité                                            	19201117	
+83085	Bois-Franc                                                	M-Municipalité                                            	19201117	
+83088	Montcerf-Lytton                                           	M-Municipalité                                            	20010919	
+83090	Aumond                                                    	CT-Municipalité de canton                                 	18771212	
+83095	Grand-Remous                                              	M-Municipalité                                            	19370429	
+83802	Kitigan Zibi                                              	R-Réserve indienne                                        	18550701	
+83804	Lac-Rapide                                                	R-Réserve indienne                                        	18550701	
+83902	Lac-Pythonga                                              	NO-Territoire non organisé                                	18550701	
+83904	Cascades-Malignes                                         	NO-Territoire non organisé                                	18550701	
+83906	Lac-Lenôtre                                               	NO-Territoire non organisé                                	18550701	
+83908	Lac-Moselle                                               	NO-Territoire non organisé                                	18550701	
+83912	Dépôt-Échouani                                            	NO-Territoire non organisé                                	18550701	
+84005	Bristol                                                   	M-Municipalité                                            	18550701	
+84010	Shawville                                                 	M-Municipalité                                            	18740101	
+84015	Clarendon                                                 	M-Municipalité                                            	18550701	
+84020	Portage-du-Fort                                           	VL-Municipalité de village                                	18630101	
+84025	Bryson                                                    	M-Municipalité                                            	18730101	
+84030	Campbell's Bay                                            	M-Municipalité                                            	19040223	
+84035	L'Île-du-Grand-Calumet                                    	M-Municipalité                                            	18550701	
+84040	Litchfield                                                	M-Municipalité                                            	18550701	
+84045	Thorne                                                    	M-Municipalité                                            	18600101	
+84050	Alleyn-et-Cawood                                          	M-Municipalité                                            	18770101	
+84055	Otter Lake                                                	M-Municipalité                                            	18770101	
+84060	Fort-Coulonge                                             	VL-Municipalité de village                                	18881215	
+84065	Mansfield-et-Pontefract                                   	M-Municipalité                                            	18680101	
+84070	Waltham                                                   	M-Municipalité                                            	18590101	
+84082	L'Isle-aux-Allumettes                                     	M-Municipalité                                            	19981230	
+84090	Chichester                                                	CT-Municipalité de canton                                 	18570101	
+84095	Sheenboro                                                 	M-Municipalité                                            	18550701	
+84100	Rapides-des-Joachims                                      	M-Municipalité                                            	19550101	
+84902	Lac-Nilgaut                                               	NO-Territoire non organisé                                	18550701	
+85005	Témiscaming                                               	V-Ville                                                   	19880326	
+85010	Kipawa                                                    	M-Municipalité                                            	19850101	
+85015	Saint-Édouard-de-Fabre                                    	P-Municipalité de paroisse                                	19130101	
+85020	Béarn                                                     	M-Municipalité                                            	19130101	
+85025	Ville-Marie                                               	V-Ville                                                   	18971013	
+85030	Duhamel-Ouest                                             	M-Municipalité                                            	19210225	
+85037	Lorrainville                                              	M-Municipalité                                            	19940216	
+85045	Saint-Bruno-de-Guigues                                    	M-Municipalité                                            	19130101	
+85052	Laverlochère-Angliers                                     	M-Municipalité                                            	20180101	
+85055	Fugèreville                                               	M-Municipalité                                            	19050101	
+85060	Latulipe-et-Gaboury                                       	CU-Municipalité de cantons unis                           	19241118	
+85065	Belleterre                                                	V-Ville                                                   	19420513	
+85070	Laforce                                                   	M-Municipalité                                            	19790101	
+85075	Moffet                                                    	M-Municipalité                                            	19530101	
+85085	Saint-Eugène-de-Guigues                                   	M-Municipalité                                            	19201120	
+85090	Notre-Dame-du-Nord                                        	M-Municipalité                                            	19190923	
+85095	Guérin                                                    	CT-Municipalité de canton                                 	19111108	
+85100	Nédélec                                                   	CT-Municipalité de canton                                 	19090201	
+85105	Rémigny                                                   	M-Municipalité                                            	19780101	
+85802	Kebaowek                                                  	R-Réserve indienne                                        	19751211	
+85803	Hunter's Point                                            	EI-Établissement amérindien                               	18550701	
+85804	Winneway                                                  	EI-Établissement amérindien                               	18550701	
+85806	Timiskaming                                               	R-Réserve indienne                                        	18550701	
+85905	Laniel                                                    	NO-Territoire non organisé                                	20051031	
+85907	Les Lacs-du-Témiscamingue                                 	NO-Territoire non organisé                                	20051031	
+86042	Rouyn-Noranda                                             	V-Ville                                                   	20020101	
+87005	Duparquet                                                 	V-Ville                                                   	19330413	
+87010	Rapide-Danseur                                            	M-Municipalité                                            	19810101	
+87015	Roquemaure                                                	M-Municipalité                                            	19520101	
+87020	Gallichan                                                 	M-Municipalité                                            	19580101	
+87025	Palmarolle                                                	M-Municipalité                                            	19300114	
+87030	Sainte-Germaine-Boulé                                     	M-Municipalité                                            	19540101	
+87035	Poularies                                                 	M-Municipalité                                            	19240507	
+87042	Taschereau                                                	M-Municipalité                                            	20011227	
+87050	Authier                                                   	M-Municipalité                                            	19180920	
+87058	Macamic                                                   	V-Ville                                                   	20020306	
+87070	Sainte-Hélène-de-Mancebourg                               	P-Municipalité de paroisse                                	19410510	
+87075	Clerval                                                   	M-Municipalité                                            	19270912	
+87080	La Reine                                                  	M-Municipalité                                            	19810919	
+87085	Dupuy                                                     	M-Municipalité                                            	19180920	
+87090	La Sarre                                                  	V-Ville                                                   	19800419	
+87095	Chazel                                                    	M-Municipalité                                            	19380219	
+87100	Authier-Nord                                              	M-Municipalité                                            	19830101	
+87105	Val-Saint-Gilles                                          	M-Municipalité                                            	19390401	
+87110	Clermont                                                  	CT-Municipalité de canton                                 	19360304	
+87115	Normétal                                                  	M-Municipalité                                            	19450101	
+87120	Saint-Lambert                                             	P-Municipalité de paroisse                                	19380514	
+87902	Lac-Duparquet                                             	NO-Territoire non organisé                                	18550701	
+87904	Rivière-Ojima                                             	NO-Territoire non organisé                                	18550701	
+88005	Champneuf                                                 	M-Municipalité                                            	19640101	
+88010	Rochebaucourt                                             	M-Municipalité                                            	19830101	
+88015	La Morandière                                             	M-Municipalité                                            	19830101	
+88022	Barraute                                                  	M-Municipalité                                            	19940105	
+88030	La Corne                                                  	M-Municipalité                                            	19750802	
+88035	Landrienne                                                	CT-Municipalité de canton                                 	19180715	
+88040	Saint-Marc-de-Figuery                                     	P-Municipalité de paroisse                                	19261110	
+88045	La Motte                                                  	M-Municipalité                                            	19210530	
+88050	Saint-Mathieu-d'Harricana                                 	M-Municipalité                                            	19430101	
+88055	Amos                                                      	V-Ville                                                   	19870117	
+88060	Saint-Félix-de-Dalquier                                   	M-Municipalité                                            	19321029	
+88065	Saint-Dominique-du-Rosaire                                	M-Municipalité                                            	19780101	
+88070	Berry                                                     	M-Municipalité                                            	19820101	
+88075	Trécesson                                                 	CT-Municipalité de canton                                 	19180715	
+88080	Launay                                                    	CT-Municipalité de canton                                 	19210518	
+88085	Sainte-Gertrude-Manneville                                	M-Municipalité                                            	19800101	
+88090	Preissac                                                  	M-Municipalité                                            	19790101	
+88802	Pikogan                                                   	R-Réserve indienne                                        	18550701	
+88902	Lac-Despinassy                                            	NO-Territoire non organisé                                	18550701	
+88904	Lac-Chicobi                                               	NO-Territoire non organisé                                	18550701	
+89008	Val-d'Or                                                  	V-Ville                                                   	20020101	
+89010	Rivière-Héva                                              	M-Municipalité                                            	19820101	
+89015	Malartic                                                  	V-Ville                                                   	19390428	
+89040	Senneterre                                                	V-Ville                                                   	19480613	
+89045	Senneterre                                                	P-Municipalité de paroisse                                	19230323	
+89050	Belcourt                                                  	M-Municipalité                                            	19181024	
+89802	Kitcisakik                                                	EI-Établissement amérindien                               	18550701	
+89804	Lac-Simon                                                 	R-Réserve indienne                                        	18550701	
+89902	Matchi-Manitou                                            	NO-Territoire non organisé                                	18550701	
+89908	Lac-Metei                                                 	NO-Territoire non organisé                                	18550701	
+89910	Réservoir-Dozois                                          	NO-Territoire non organisé                                	18550701	
+89912	Lac-Granet                                                	NO-Territoire non organisé                                	18550701	
+90012	La Tuque                                                  	V-Ville                                                   	20030326	
+90017	La Bostonnais                                             	M-Municipalité                                            	20060101	
+90027	Lac-Édouard                                               	M-Municipalité                                            	20060101	
+90801	Coucoucache                                               	R-Réserve indienne                                        	18550701	
+90802	Wemotaci                                                  	R-Réserve indienne                                        	18550701	
+90804	Obedjiwan                                                 	R-Réserve indienne                                        	18550701	
+91005	Lac-Bouchette                                             	M-Municipalité                                            	19710925	
+91010	Saint-André-du-Lac-Saint-Jean                             	VL-Municipalité de village                                	19691129	
+91015	Saint-François-de-Sales                                   	M-Municipalité                                            	18890101	
+91020	Chambord                                                  	M-Municipalité                                            	19731208	
+91025	Roberval                                                  	V-Ville                                                   	19761223	
+91030	Sainte-Hedwidge                                           	M-Municipalité                                            	19100101	
+91035	Saint-Prime                                               	M-Municipalité                                            	19680629	
+91042	Saint-Félicien                                            	V-Ville                                                   	19960612	
+91050	La Doré                                                   	P-Municipalité de paroisse                                	19070101	
+91802	Mashteuiatsh                                              	R-Réserve indienne                                        	18550701	
+91902	Lac-Ashuapmushuan                                         	NO-Territoire non organisé                                	18550701	
+92005	Saint-Augustin                                            	P-Municipalité de paroisse                                	19250514	
+92010	Péribonka                                                 	M-Municipalité                                            	19090101	
+92015	Sainte-Jeanne-d'Arc                                       	VL-Municipalité de village                                	19700124	
+92022	Dolbeau-Mistassini                                        	V-Ville                                                   	19971217	
+92030	Albanel                                                   	M-Municipalité                                            	19900411	
+92040	Normandin                                                 	V-Ville                                                   	19790310	
+92045	Saint-Thomas-Didyme                                       	M-Municipalité                                            	19230511	
+92050	Saint-Edmond-les-Plaines                                  	M-Municipalité                                            	19380903	
+92055	Girardville                                               	M-Municipalité                                            	19211111	
+92060	Notre-Dame-de-Lorette                                     	M-Municipalité                                            	19660101	
+92065	Saint-Eugène-d'Argentenay                                 	M-Municipalité                                            	19231114	
+92070	Saint-Stanislas                                           	M-Municipalité                                            	19311024	
+92902	Passes-Dangereuses                                        	NO-Territoire non organisé                                	18550701	
+92904	Rivière-Mistassini                                        	NO-Territoire non organisé                                	18550701	
+93005	Desbiens                                                  	V-Ville                                                   	19260816	
+93012	Métabetchouan--Lac-à-la-Croix                             	V-Ville                                                   	19990106	
+93020	Hébertville                                               	M-Municipalité                                            	19721216	
+93025	Hébertville-Station                                       	VL-Municipalité de village                                	19030218	
+93030	Saint-Bruno                                               	M-Municipalité                                            	19750712	
+93035	Saint-Gédéon                                              	M-Municipalité                                            	19751206	
+93042	Alma                                                      	V-Ville                                                   	20010221	
+93045	Saint-Nazaire                                             	M-Municipalité                                            	19060101	
+93055	Labrecque                                                 	M-Municipalité                                            	19251006	
+93060	Lamarche                                                  	M-Municipalité                                            	19670101	
+93065	L'Ascension-de-Notre-Seigneur                             	P-Municipalité de paroisse                                	19190225	
+93070	Saint-Henri-de-Taillon                                    	M-Municipalité                                            	19040101	
+93075	Sainte-Monique                                            	M-Municipalité                                            	19300830	
+93080	Saint-Ludger-de-Milot                                     	M-Municipalité                                            	19470101	
+93902	Mont-Apica                                                	NO-Territoire non organisé                                	18550701	
+93904	Lac-Moncouche                                             	NO-Territoire non organisé                                	18550701	
+93906	Lac-Achouakan                                             	NO-Territoire non organisé                                	18550701	
+93908	Belle-Rivière                                             	NO-Territoire non organisé                                	18550701	
+94068	Saguenay                                                  	V-Ville                                                   	20020218	
+94205	Petit-Saguenay                                            	M-Municipalité                                            	20020218	
+94210	L'Anse-Saint-Jean                                         	M-Municipalité                                            	20020218	
+94215	Rivière-Éternité                                          	M-Municipalité                                            	20020218	
+94220	Ferland-et-Boilleau                                       	M-Municipalité                                            	20020218	
+94225	Saint-Félix-d'Otis                                        	M-Municipalité                                            	20020218	
+94230	Sainte-Rose-du-Nord                                       	P-Municipalité de paroisse                                	20020218	
+94235	Saint-Fulgence                                            	M-Municipalité                                            	20020218	
+94240	Saint-Honoré                                              	V-Ville                                                   	20020218	
+94245	Saint-David-de-Falardeau                                  	M-Municipalité                                            	20020218	
+94250	Bégin                                                     	M-Municipalité                                            	20020218	
+94255	Saint-Ambroise                                            	M-Municipalité                                            	20020218	
+94260	Saint-Charles-de-Bourget                                  	M-Municipalité                                            	20020218	
+94265	Larouche                                                  	M-Municipalité                                            	20020218	
+94926	Lalemant                                                  	NO-Territoire non organisé                                	20020218	
+94928	Lac-Ministuk                                              	NO-Territoire non organisé                                	20020218	
+94930	Mont-Valin                                                	NO-Territoire non organisé                                	20020218	
+95005	Tadoussac                                                 	VL-Municipalité de village                                	18991010	
+95010	Sacré-Coeur                                               	M-Municipalité                                            	19730630	
+95018	Les Bergeronnes                                           	M-Municipalité                                            	19991229	
+95025	Les Escoumins                                             	M-Municipalité                                            	18630505	
+95032	Longue-Rive                                               	M-Municipalité                                            	19970528	
+95040	Portneuf-sur-Mer                                          	M-Municipalité                                            	19020912	
+95045	Forestville                                               	V-Ville                                                   	19800105	
+95050	Colombier                                                 	M-Municipalité                                            	19460101	
+95802	Essipit                                                   	R-Réserve indienne                                        	18550701	
+95902	Lac-au-Brochet                                            	NO-Territoire non organisé                                	18550701	
+96005	Baie-Trinité                                              	VL-Municipalité de village                                	19550101	
+96010	Godbout                                                   	VL-Municipalité de village                                	19550101	
+96015	Franquelin                                                	M-Municipalité                                            	19780101	
+96020	Baie-Comeau                                               	V-Ville                                                   	19830101	
+96025	Pointe-Lebel                                              	VL-Municipalité de village                                	19640101	
+96030	Pointe-aux-Outardes                                       	VL-Municipalité de village                                	19640101	
+96035	Chute-aux-Outardes                                        	VL-Municipalité de village                                	19510307	
+96040	Ragueneau                                                 	P-Municipalité de paroisse                                	19510307	
+96802	Pessamit                                                  	R-Réserve indienne                                        	18550701	
+96902	Rivière-aux-Outardes                                      	NO-Territoire non organisé                                	18550701	
+97007	Sept-Îles                                                 	V-Ville                                                   	20030212	
+97022	Port-Cartier                                              	V-Ville                                                   	20030219	
+97035	Fermont                                                   	V-Ville                                                   	19741019	
+97040	Schefferville                                             	V-Ville                                                   	19550801	
+97802	Uashat                                                    	R-Réserve indienne                                        	18550701	
+97804	Maliotenam                                                	R-Réserve indienne                                        	18550701	
+97806	Kawawachikamach                                           	TK-Terres réservées aux Naskapis                          	19810304	
+97808	Matimekosh                                                	R-Réserve indienne                                        	18550701	
+97810	Lac-John                                                  	R-Réserve indienne                                        	19961231	
+97902	Rivière-Nipissis                                          	NO-Territoire non organisé                                	18550701	
+97904	Lac-Walker                                                	NO-Territoire non organisé                                	18550701	
+97906	Rivière-Mouchalagane                                      	NO-Territoire non organisé                                	18550701	
+97908	Caniapiscau                                               	NO-Territoire non organisé                                	18550701	
+97912	Lac-Juillet                                               	NO-Territoire non organisé                                	18550701	
+97914	Lac-Vacher                                                	NO-Territoire non organisé                                	18550701	
+98005	Blanc-Sablon                                              	M-Municipalité                                            	19900101	
+98010	Bonne-Espérance                                           	M-Municipalité                                            	19900101	
+98012	Saint-Augustin                                            	M-Municipalité                                            	19930101	
+98014	Gros-Mécatina                                             	M-Municipalité                                            	19940101	
+98015	Côte-Nord-du-Golfe-du-Saint-Laurent                       	M-Municipalité                                            	19630622	
+98020	L'Île-d'Anticosti                                         	M-Municipalité                                            	19020326	
+98025	Natashquan                                                	M-Municipalité                                            	19070916	
+98030	Aguanish                                                  	M-Municipalité                                            	19570101	
+98035	Baie-Johan-Beetz                                          	M-Municipalité                                            	19660101	
+98040	Havre-Saint-Pierre                                        	M-Municipalité                                            	18730101	
+98045	Longue-Pointe-de-Mingan                                   	M-Municipalité                                            	19660101	
+98050	Rivière-Saint-Jean                                        	M-Municipalité                                            	19660101	
+98055	Rivière-au-Tonnerre                                       	M-Municipalité                                            	19251214	
+98802	Pakuashipi                                                	EI-Établissement amérindien                               	18550701	
+98804	La Romaine                                                	R-Réserve indienne                                        	18550701	
+98806	Nutashkuan                                                	R-Réserve indienne                                        	18550701	
+98808	Mingan                                                    	R-Réserve indienne                                        	18550701	
+98904	Lac-Jérôme                                                	NO-Territoire non organisé                                	18550701	
+98912	Petit-Mécatina                                            	NO-Territoire non organisé                                	20100707	
+99005	Lebel-sur-Quévillon                                       	V-Ville                                                   	19650807	
+99010	Waswanipi                                                 	VC-Municipalité de village cri                            	19780628	
+99015	Matagami                                                  	V-Ville                                                   	19630401	
+99020	Chapais                                                   	V-Ville                                                   	19551116	
+99025	Chibougamau                                               	V-Ville                                                   	19521108	
+99030	Mistissini                                                	VC-Municipalité de village cri                            	19780628	
+99035	Waskaganish                                               	VC-Municipalité de village cri                            	19780628	
+99040	Nemaska                                                   	VC-Municipalité de village cri                            	19780628	
+99045	Eastmain                                                  	VC-Municipalité de village cri                            	19780628	
+99050	Wemindji                                                  	VC-Municipalité de village cri                            	19780628	
+99055	Chisasibi                                                 	VC-Municipalité de village cri                            	19780628	
+99060	Gouvernement régional d'Eeyou Istchee Baie-James          	M-Municipalité                                            	19710714	
+99065	Kawawachikamach                                           	VK-Municipalité de village naskapi                        	19810603	
+99070	Whapmagoostui                                             	VC-Municipalité de village cri                            	19780628	
+99075	Kuujjuarapik                                              	VN-Municipalité de village nordique                       	19800607	
+99080	Umiujaq                                                   	VN-Municipalité de village nordique                       	19861220	
+99085	Inukjuak                                                  	VN-Municipalité de village nordique                       	19800607	
+99090	Kangiqsualujjuaq                                          	VN-Municipalité de village nordique                       	19800202	
+99095	Kuujjuaq                                                  	VN-Municipalité de village nordique                       	19791229	
+99100	Tasiujaq                                                  	VN-Municipalité de village nordique                       	19791219	
+99105	Aupaluk                                                   	VN-Municipalité de village nordique                       	19800202	
+99110	Kangirsuk                                                 	VN-Municipalité de village nordique                       	19810117	
+99115	Quaqtaq                                                   	VN-Municipalité de village nordique                       	19801101	
+99120	Puvirnituq                                                	VN-Municipalité de village nordique                       	19890902	
+99125	Akulivik                                                  	VN-Municipalité de village nordique                       	19791229	
+99130	Kangiqsujuaq                                              	VN-Municipalité de village nordique                       	19800920	
+99135	Salluit                                                   	VN-Municipalité de village nordique                       	19791229	
+99140	Ivujivik                                                  	VN-Municipalité de village nordique                       	19810627	
+99802	Waswanipi                                                 	TC-Terres réservées aux Cris                              	18550701	
+99804	Mistissini                                                	TC-Terres réservées aux Cris                              	18550701	
+99806	Waskaganish                                               	TC-Terres réservées aux Cris                              	18550701	
+99808	Nemaska                                                   	TC-Terres réservées aux Cris                              	18550701	
+99810	Eastmain                                                  	TC-Terres réservées aux Cris                              	18550701	
+99812	Wemindji                                                  	TC-Terres réservées aux Cris                              	18550701	
+99814	Chisasibi                                                 	TC-Terres réservées aux Cris                              	18550701	
+99816	Whapmagoostui                                             	TC-Terres réservées aux Cris                              	18550701	
+99818	Oujé-Bougoumou                                            	TC-Terres réservées aux Cris                              	19891128	
+99877	Kuujjuarapik                                              	TI-Terres de la catégorie I pour les Inuits               	20040908	
+99878	Umiujaq                                                   	TI-Terres de la catégorie I pour les Inuits               	20040908	
+99879	Inukjuak                                                  	TI-Terres de la catégorie I pour les Inuits               	19830825	
+99883	Akulivik                                                  	TI-Terres de la catégorie I pour les Inuits               	19830825	
+99885	Ivujivik                                                  	TI-Terres de la catégorie I pour les Inuits               	20150610	
+99887	Salluit                                                   	TI-Terres de la catégorie I pour les Inuits               	19830825	
+99888	Kangiqsujuaq                                              	TI-Terres de la catégorie I pour les Inuits               	19830825	
+99889	Quaqtaq                                                   	TI-Terres de la catégorie I pour les Inuits               	19830825	
+99890	Kangirsuk                                                 	TI-Terres de la catégorie I pour les Inuits               	19830825	
+99891	Aupaluk                                                   	TI-Terres de la catégorie I pour les Inuits               	19830825	
+99892	Tasiujaq                                                  	TI-Terres de la catégorie I pour les Inuits               	19830825	
+99893	Kuujjuaq                                                  	TI-Terres de la catégorie I pour les Inuits               	19880120	
+99894	Kangiqsualujjuaq                                          	TI-Terres de la catégorie I pour les Inuits               	19830825	
+99902	Rivière-Koksoak                                           	NO-Territoire non organisé                                	18550701	
+99904	Baie-d'Hudson                                             	NO-Territoire non organisé                                	18550701	
+99910	Toponyme à venir                                          	NO-Territoire non organisé                                	20140101	
+99914	Toponyme à venir                                          	NO-Territoire non organisé                                	20140101	
+99916	Toponyme à venir                                          	NO-Territoire non organisé                                	20140101	
+99918	Toponyme à venir                                          	NO-Territoire non organisé                                	20140101	
+99920	Toponyme à venir                                          	NO-Territoire non organisé                                	20140101	
+99922	Toponyme à venir                                          	NO-Territoire non organisé                                	20140101	
+99924	Toponyme à venir                                          	NO-Territoire non organisé                                	20140101	

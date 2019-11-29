@@ -1,0 +1,16 @@
+version: '3'
+
+services:
+  jupyter:
+    image: jupyter/pyspark-notebook:latest
+    volumes:
+      - .:/home/jovyan/work
+    command: jupyter notebook --NotebookApp.token='${TOKEN}'
+    ports:
+      - 8889:8888
+      # - 3030-3080:3030-3080
+
+networks:
+  default:
+    external:
+      name: spark-network
