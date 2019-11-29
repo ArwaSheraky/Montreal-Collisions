@@ -5,7 +5,8 @@ Performing basic data cleaning, EDA and prediction of number of collisions in Mo
 
 The purpose of this project is to use acquired techniques of creating Docker images, working with volumes, containers, and stacks, creating clusters and performing deployment inside the cluster locally and on GCP. We will also be using HDFS, MondoDB and Parquet Files in our project. As we work in Spark we will be using pyspark language and working with RDD.   
 
-[__Link to Presentation__](https://github.com/CCE-BigDataInfra-1261/2019-fall-group-project-luigi-nastazya-arwa/blob/master/Montreal%20Road%20Collisions.pdf)
+Contributors: @Arwasheraky, @Nastazya and @Clercy 
+[__Link to Presentation__](https://github.com/ArwaSheraky/Montreal-Collisions/blob/master/Montreal%20Road%20Collisions.pdf)
 _______________
 ## Project Structure
 
@@ -134,7 +135,7 @@ _______________
 
 In the middle of the project development process, we needed to access _data_cleaning.ipynb_ and run some additional code without changing the existing file and its output. For this purpose, we've run _jupyter-compose.yml_ that uses volume _jupyter-data_. When we opened  Jupyter notebook there were some files already, but not the ones we needed:
 
-![Jupyter-data Volume](https://github.com/CCE-BigDataInfra-1261/2019-fall-group-project-luigi-nastazya-arwa/blob/master/README%20files%20and%20screenshots/Making%20use%20of%20local%20volumes/jupyter-data%20volume%20files_1.png)
+![Jupyter-data Volume](https://github.com/ArwaSheraky/Montreal-Collisions/blob/master/README%20files%20and%20screenshots/Making%20use%20of%20local%20volumes/jupyter-data%20volume%20files_1.png)
 
 So we created a temporary folder with two files and copied them into _Jupyter-data_ volume through _busybox_ image:
 
@@ -170,7 +171,7 @@ _______________
 
     * `docker-compose --file spark_hdfs-compose.yml up --scale spark-worker=2`
 
-    * ![Run Pyspark Script](https://github.com/CCE-BigDataInfra-1261/2019-fall-group-project-luigi-nastazya-arwa/blob/master/README%20files%20and%20screenshots/Hadoop-MongoDB-Parquet/run-hadoop.png)
+    * ![Run Pyspark Script](https://github.com/ArwaSheraky/Montreal-Collisions/blob/master/README%20files%20and%20screenshots/Hadoop-MongoDB-Parquet/run-hadoop.png)
 
 2. From another terminal, run the PySpark script[`csv-to-parquet.py`](code/csv-to-parquet.py), and mount the current directory:
     * ```
@@ -186,13 +187,13 @@ _______________
 
     * The script is running to: read the csv file, write it to hdfs in parquet format, read the file again from hfds and try some SQL queries:
 
-    * ![Run PySpark Query](https://github.com/CCE-BigDataInfra-1261/2019-fall-group-project-luigi-nastazya-arwa/blob/master/README%20files%20and%20screenshots/Hadoop-MongoDB-Parquet/run-sql.png)
+    * ![Run PySpark Query](https://github.com/ArwaSheraky/Montreal-Collisions/blob/master/README%20files%20and%20screenshots/Hadoop-MongoDB-Parquet/run-sql.png)
 
 3. Now, we have our data in parquet format, uploaded to HDFS, we can browse it on localhost: http://localhost:50070/explorer.html
 
-    * ![Write parquet to hdfs](https://github.com/CCE-BigDataInfra-1261/2019-fall-group-project-luigi-nastazya-arwa/blob/master/README%20files%20and%20screenshots/Hadoop-MongoDB-Parquet/write-to-hdfs-1.PNG)
+    * ![Write parquet to hdfs](https://github.com/ArwaSheraky/Montreal-Collisions/blob/master/README%20files%20and%20screenshots/Hadoop-MongoDB-Parquet/write-to-hdfs-1.PNG)
 
-    * ![Write parquet to hdfs](https://github.com/CCE-BigDataInfra-1261/2019-fall-group-project-luigi-nastazya-arwa/blob/master/README%20files%20and%20screenshots/Hadoop-MongoDB-Parquet/write-to-hdfs-2.PNG)
+    * ![Write parquet to hdfs](https://github.com/ArwaSheraky/Montreal-Collisions/blob/master/README%20files%20and%20screenshots/Hadoop-MongoDB-Parquet/write-to-hdfs-2.PNG)
 
 _______________
 ### GCP Dataproc cluster
@@ -251,7 +252,7 @@ _______________
     docker-compose --file spark-compose.yml up
 ```
 
-- Building the [image](https://github.com/CCE-BigDataInfra-1261/2019-fall-group-project-luigi-nastazya-arwa/blob/master/code/Dockerfile):
+- Building the [image](code/Dockerfile):
 ```
 docker build -t <image_name> .
 ```
@@ -286,7 +287,7 @@ _______________
  - Dealing with nulls: streets with nulls were removed; empty codes were removed too: we could replace them with 99 but we will remove all the rows with unknown categories anyway.
  - Writing the "clean" data to another file
 
- [Please check this file which contains the code, results and comments](https://github.com/CCE-BigDataInfra-1261/2019-fall-group-project-luigi-nastazya-arwa/blob/master/README%20files%20and%20screenshots/data_cleaning.pdf)
+ [Please check this file which contains the code, results and comments](https://github.com/ArwaSheraky/Montreal-Collisions/blob/master/README%20files%20and%20screenshots/data_cleaning.pdf)
 _______________
 ## Exploratory Data Analysis
 
@@ -312,7 +313,7 @@ _______________
    
    ![Gravite levels](code/figures/gravite_levels.png)
 
-[EDA Notebook](https://github.com/CCE-BigDataInfra-1261/2019-fall-group-project-luigi-nastazya-arwa/blob/master/code/data_EDA.ipynb)
+[EDA Notebook](code/data_EDA.ipynb)
 
 _______________
 ## Prediction
@@ -349,11 +350,11 @@ The following steps were done:
     <img width="800" alt="final_part_1" src="https://user-images.githubusercontent.com/46948881/69302031-4074c700-0be6-11ea-8527-0ede98420669.png">
     </p>
 
-    [Please check this complete file which contains the code, results and comments](https://github.com/CCE-BigDataInfra-1261/2019-fall-group-project-luigi-nastazya-arwa/blob/Anastasia_Prediction/code/Prediction_Subset.ipynb)
+    [Please check this complete file which contains the code, results and comments](code/Prediction_Subset.ipynb)
 
  - __Splitting the dataset into test and train__
 
-    [Please check this complete file which contains the code, results and comments](https://github.com/CCE-BigDataInfra-1261/2019-fall-group-project-luigi-nastazya-arwa/blob/master/code/Prediction_and_model_export.ipynb)
+    [Please check this complete file which contains the code, results and comments](code/Prediction_and_model_export.ipynb)
 
  - __Building and running a model__
 
@@ -371,7 +372,7 @@ The following steps were done:
 
  - __Exporting the model and running the script__
 
-    We exported the model using _joblib_ library, to be able to run the script that will take a number of features as an input and calculate the predicted number of collisions based on the info we provided (you can check the code [here](https://github.com/CCE-BigDataInfra-1261/2019-fall-group-project-luigi-nastazya-arwa/blob/Anastasia_Prediction/code/script/pred.py) and instructions on how to run it in _RUNME_ section)
+    We exported the model using _joblib_ library, to be able to run the script that will take a number of features as an input and calculate the predicted number of collisions based on the info we provided (you can check the code [here](code/script/pred.py) and instructions on how to run it in _RUNME_ section)
 
     <p align="center">      
     <img width="700" alt="spark_white" src="https://user-images.githubusercontent.com/46948881/69362055-c2eb9e00-0c5b-11ea-8e71-c07617aa30ce.png">
